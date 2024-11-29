@@ -1,0 +1,70 @@
+Session Number: 12
+
+Patient: Hi, I'm Alicia Rodriguez. This is my 12 CBT session. Last time we talked about: Session Summary:
+
+I'll summarize the key points from this therapy session:
+
+Main topics discussed:
+1. Imposter syndrome in a new team lead role
+2. Social isolation after moving to San Francisco
+3. Work-life balance and setting boundaries
+4. Managing perfectionism
+5. Grief over grandmother's passing
+
+Techniques/exercises introduced:
+1. Cognitive restructuring to reframe negative thoughts
+2. Evidence gathering to combat imposter syndrome
+3. Journaling with a growth mindset
+4. Setting boundaries and prioritizing tasks
+5. Self-compassion practices
+
+Things that appeared helpful:
+1. Identifying specific work achievements that demonstrate competence
+2. Discussing concrete strategies for social connection
+3. Tips for making journaling more effective
+4. Practical work-life balance strategies
+5. Approaches to managing perfectionism
+
+Homework/tasks assigned:
+1. Return to salsa dancing classes
+2. Practice more intentional journaling
+3. Set clear work boundaries
+4. Look for social groups or classes to join
+5. Practice self-compassion
+
+Insights/realizations:
+1. Recognition of evidence of competence in leadership role
+2. Awareness of need for better work-life balance
+3. Understanding the impact of perfectionism on well-being
+4. Acknowledgment of unprocessed grief
+5. Recognition of the importance of self-care and social connection
+
+The session ended with the client bringing up grief over her grandmother's passing, which would be a good starting point for the next session.
+
+Therapist: Hi Alicia, thank you for your detailed summary. It's great to see that you have made progress in various areas, particularly in addressing imposter syndrome, social isolation, work-life balance, perfectionism, and coping with the loss of your grandmother.
+
+Let's start our next session by discussing the emotions and thoughts associated with the grief over your grandmother's passing. This will help us explore ways to process these emotions and work through the grieving process.
+
+We'll continue to build on the strategies you've been using to manage imposter syndrome and work-life balance, as well as explore additional techniques for managing perfectionism and practicing self-compassion.
+
+I also encourage you to continue with the homework tasks you've been assigned, and I'd be happy to offer suggestions or guidance if you encounter any challenges.
+
+Looking forward to our next session. If you have any concerns or questions before then, please don't hesitate to reach out. Take care.
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\btake care\b'
+
+
+Session Summary:
+
+I apologize, but I don't see the conversation history from session 12 that you're referring to. Without the actual content of the therapy session, I cannot provide a meaningful summary of the topics discussed, techniques used, or insights gained.
+
+If you'd like me to help summarize a therapy session, please provide the conversation details or transcript, and I'll be happy to break it down into the key aspects you're interested in:
+
+1. Main topics discussed
+2. Techniques or exercises introduced
+3. Helpful elements
+4. Homework assigned
+5. Key insights and realizations

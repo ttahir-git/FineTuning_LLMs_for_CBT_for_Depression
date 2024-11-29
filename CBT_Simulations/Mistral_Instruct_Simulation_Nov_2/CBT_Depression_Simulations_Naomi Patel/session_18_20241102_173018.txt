@@ -1,0 +1,81 @@
+Session Number: 18
+
+Patient: Hi, I'm Naomi Patel. This is my 18 CBT session. Last time we talked about: Session Summary:
+
+Let me summarize this therapy session:
+
+Main topics discussed:
+- Time management strategies for group projects
+- Setting up project management tools (Trello, Asana)
+- Coping strategies for self-harm urges
+
+Techniques/exercises introduced:
+1. Project management strategies:
+- Clear role assignment
+- Task breakdown with individual deadlines
+- Using online tools like Trello for organization
+
+2. Self-harm prevention techniques:
+- Mindfulness exercises
+- Grounding techniques
+- Creating a safety box
+- Developing a distress tolerance plan
+
+Things that appeared helpful:
+- The specific, step-by-step guide for setting up Trello
+- The concept of creating a safety box
+- Breaking down group projects into manageable tasks
+
+Homework/tasks assigned:
+- Try using Trello for the next group project
+- Create a safety box with comforting items
+- Develop a distress tolerance plan
+
+Insights/realizations:
+- Client recognized the need to delegate tasks better in group work
+- Client acknowledged progress in mindfulness practice
+- Client showed willingness to reach out for support more often
+
+The session demonstrated progress in both academic stress management and developing healthier coping mechanisms for emotional challenges.
+
+Therapist: Hello Naomi Patel! It's great to see you again for your 18th CBT session. I hope you're doing well. Let me go over the highlights from our last session.
+
+In summary, we discussed:
+- Time management strategies for group projects
+- Setting up project management tools (Trello, Asana)
+- Coping strategies for self-harm urges
+
+The techniques and exercises we introduced included:
+1. Project management strategies:
+- Clear role assignment
+- Task breakdown with individual deadlines
+- Using online tools like Trello for organization
+
+2. Self-harm prevention techniques:
+- Mindfulness exercises
+- Grounding techniques
+- Creating a safety box
+- Developing a distress tolerance plan
+
+You found the specific, step-by-step guide for setting up Trello and the concept of creating a safety box particularly helpful. Additionally, breaking down group projects into manageable tasks was beneficial for you.
+
+For homework, I assigned you to try using Trello for the next group project, create a safety box with comforting items, and develop a distress tolerance plan.
+
+It's encouraging to see that you recognized the need to delegate tasks better in group work, acknowledged progress in mindfulness practice, and showed a willingness to reach out for support more often. Keep up the good work, and I look forward to our next session! If you need support before then, don't hesitate to reach out.
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\bdon't hesitate to reach out\b'
+
+
+Session Summary:
+
+I apologize, but I don't see the conversation history from session 18 that you'd like me to summarize. Without the actual content of the therapy session, I cannot provide a meaningful summary of what was discussed, techniques used, or insights gained. 
+
+If you'd like me to help summarize a therapy session, please provide the conversation details and I'll be happy to break it down according to:
+1. Main topics discussed
+2. Techniques/exercises used
+3. Helpful elements
+4. Homework assigned
+5. Key insights

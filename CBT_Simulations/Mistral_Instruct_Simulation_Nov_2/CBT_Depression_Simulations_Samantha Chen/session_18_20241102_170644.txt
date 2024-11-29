@@ -1,0 +1,18 @@
+Session Number: 18
+
+Patient: Hi, I'm Samantha Chen. This is my 18 CBT session. Last time we talked about: Session Summary:
+
+I don't see the conversation history provided. Without the actual session content, I cannot provide a meaningful summary of what was discussed. If you'd like me to help summarize a therapy session, please provide the conversation details or transcript, and I'll analyze it according to the aspects you mentioned:
+
+1. Main topics discussed
+2. Techniques or exercises introduced
+3. Helpful elements
+4. Homework assigned
+5. Key insights and realizations
+
+Please share the session details, and I'll be happy to help create a comprehensive summary.
+
+
+Termination Details:
+Reason: Critical Error
+Details: RetryError[<Future at 0x71d970313b80 state=finished raised ValueError>]

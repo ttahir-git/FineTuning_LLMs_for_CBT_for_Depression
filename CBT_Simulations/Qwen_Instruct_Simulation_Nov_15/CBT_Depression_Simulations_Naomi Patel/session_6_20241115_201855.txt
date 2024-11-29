@@ -1,0 +1,93 @@
+Session Number: 6
+
+Patient: Hi, I'm Naomi Patel. This is my 6 CBT session. Last time we talked about: Session Summary:
+
+Summary of Therapy Session #5:
+
+Main Topics Discussed:
+- Progress with morning mindfulness practice using Headspace app
+- Implementation of structured journaling
+- Challenges and benefits of both practices
+- Ways to combine and enhance these practices effectively
+
+Techniques/Exercises Introduced:
+- Setting phone reminders for consistency
+- Private journaling for increased honesty
+- Daily mindfulness check-ins (morning and evening)
+- Mid-day mindfulness breaks
+- Journal review practice
+
+Things That Appeared Helpful:
+- Mindfulness practice before challenging tasks
+- Tracking emotions through journaling
+- Identifying patterns in anxiety and stress levels
+- Combining mindfulness and journaling for better results
+
+Homework Assigned:
+1. Continue 5-10 minute daily mindfulness practice with reminders
+2. Establish specific times for journaling (before bed)
+3. Implement morning journal review
+4. Add mid-morning mindfulness breaks
+5. Practice mindfulness before challenging tasks
+
+Insights/Realizations:
+- Connection between skipping mindfulness and increased anxiety
+- Pattern recognition of anxiety increasing with multiple deadlines
+- Benefits of combining mindfulness and journaling for emotional regulation
+- Importance of privacy in journaling for honest emotional expression
+
+Therapist: : Hello Naomi, it's great to see you again. Thank you for summarizing our previous session. Today, we can build on what we've discussed and work on some new goals and strategies. How are you feeling today? Any particular areas or challenges you would like to focus on?
+
+Patient: Hi Nova, thanks for asking. I'm feeling a bit overwhelmed today, to be honest. I had a really tough week with multiple deadlines and a lot of pressure from my advisor. I've been trying to stick to the mindfulness and journaling practices, but I skipped a few days because I was so busy. I noticed that when I skip those practices, my anxiety goes up significantly. I guess I want to focus on how to balance these practices with my academic workload better.
+
+Therapist: : Hello Naomi, thank you for sharing how you're feeling. It's completely understandable to feel overwhelmed, especially with multiple deadlines and academic pressure. Let's work together to find some strategies to balance your mindfulness and journaling practices with your workload.
+
+First, let's address the challenge of maintaining your practices despite the busy schedule. One approach could be to integrate your mindfulness and journaling into your daily routine in a way that minimizes disruption. Here are a few suggestions:
+
+1. **Time Blocking**: Set aside specific times in your day for mindfulness and journaling, even if it's just a few minutes. This can help you manage your time more effectively and reduce the chances of skipping them.
+
+2. **Leverage Short Breaks**: Use your mid-day mindfulness breaks to do quick exercises, such as deep breathing or a short meditation. Even a 2-3 minute break can help you feel more centered.
+
+3. **Morning and Evening Routine**: Consider integrating these practices into your morning and evening routines. For example, you might do a 5-minute mindfulness practice right after waking up or before going to bed.
+
+4. **Prioritize and Pace Yourself**: It might be helpful to prioritize the tasks and spread your work out more evenly over the days. Break down larger tasks into smaller, manageable parts to avoid feeling overwhelmed.
+
+5. **Seek Support**: Don't hesitate to reach out to your advisor or other support systems for help. Sometimes, just sharing your workload can help reduce the pressure.
+
+Let's also talk about how to use these practices to manage your anxiety when you feel particularly stressed. You mentioned that you notice a pattern of increased anxiety with multiple deadlines. We can work on techniques to recognize these patterns early and use your mindfulness and journaling to manage them.
+
+Would you like to start by setting some specific times in your day for these practices? Or do you have any other questions or concerns you'd like to address first?
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\bdon't hesitate to reach out\b'
+
+
+Session Summary:
+
+Session Summary:
+
+1. Main topics discussed:
+- Feeling overwhelmed with academic workload and multiple deadlines
+- Pressure from advisor
+- Challenges maintaining mindfulness and journaling practices
+- Connection between skipping self-care practices and increased anxiety levels
+- Need for better balance between academic work and self-care routines
+
+2. Techniques/exercises introduced:
+- Discussion began about balancing self-care practices with academic demands
+- Acknowledgment of the connection between consistent practices and anxiety management
+
+3. Helpful/important elements:
+- Client's self-awareness about the relationship between skipping practices and increased anxiety
+- Recognition of the importance of maintaining self-care routines despite busy schedule
+
+4. Homework/tasks assigned:
+- None mentioned in this brief exchange
+
+5. Insights/realizations:
+- Clear recognition that mindfulness and journaling practices have a positive impact on managing anxiety
+- Understanding that maintaining these practices is challenging during high-stress periods, precisely when they might be most needed
+
+Note: This appears to be the beginning of the session, so additional elements may have been discussed after this initial exchange.

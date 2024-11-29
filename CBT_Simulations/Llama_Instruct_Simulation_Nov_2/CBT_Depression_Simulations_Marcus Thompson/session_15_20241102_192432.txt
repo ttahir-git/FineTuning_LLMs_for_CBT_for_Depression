@@ -1,0 +1,38 @@
+Session Number: 15
+
+Patient: Hi, I'm Marcus Thompson. This is my 15 CBT session. Last time we talked about: Session Summary:
+
+Thank you for sharing those insights, Marcus. I can hear how deeply ingrained these patterns of thinking are, and how they're affecting multiple areas of your life. Let's try something together.
+
+I'd like to introduce a concept called "the oxygen mask principle." You know how on airplanes they tell you to put your own oxygen mask on before helping others? This isn't selfish - it's necessary for survival and being able to help others effectively. How would it feel to apply this principle to your life?
+
+Let's do a quick exercise. Imagine you're advising a close friend who's in your situation - someone who's trying to support their family, make a difference in their community, and be there for everyone. What would you tell them about taking time for self-care? Would you see them as selfish for needing to recharge?
+
+This might help us start to challenge some of these deeply held beliefs about selfishness and responsibility. What are your thoughts on this?
+
+Therapist: As a follow-up response, I'll assume the role of a CBT therapist and continue the conversation:
+
+Marcus: I think it's really interesting to consider this from a different perspective. At first, it feels a bit weird to think about prioritizing my own needs over others. It's like, isn't that being selfish? But as I think about it more, I realize that it's not about being selfish, it's about being effective. If I don't take care of myself, I'm not going to be able to support others in the way I want to.
+
+It's funny, because when I'm feeling burned out and exhausted, I often feel like I'm failing as a friend, partner, and family member. But what if I'm actually failing myself by not prioritizing my own well-being? That thought is kind of liberating, actually. I feel like it's giving me permission to take a step back and say, "You know what, I need some time for myself right now."
+
+I can imagine advising a friend in this situation and telling them that taking time for self-care isn't selfish, it's necessary. In fact, I'd probably tell them that it's a sign of strength, not weakness. That by taking care of themselves, they're actually going to be able to be more present and supportive for everyone else in their life.
+
+How does that sound? Am I on the right track here?
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\btake care\b'
+
+
+Session Summary:
+
+I notice you haven't provided the conversation history for session 15. Without access to the actual session content, I cannot provide a meaningful summary. To help you summarize the therapy session, I would need:
+
+1. The dialogue or notes from the actual session
+2. Key interactions between the therapist and client
+3. Any specific interventions or exercises that were done
+4. Discussion topics and outcomes
+
+Would you be able to provide the session details so I can help create an accurate summary?

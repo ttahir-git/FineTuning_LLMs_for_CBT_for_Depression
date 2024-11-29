@@ -1,0 +1,86 @@
+
+Therapist: Alicia, it's great to meet you! Welcome to our CBT session. I'm glad you've taken the first step in seeking help for how you're feeling. Can you tell me a bit more about what's been going on and how you've been feeling lately? What specifically has been causing you distress? Is it related to work, relationships, or something else?
+
+Patient: Thanks, Nova. It's been a tough few months, especially after my grandmother passed away. She was really important to me, and I feel like I lost a big part of myself when she was gone. Work has been overwhelming too, especially since I got promoted. I feel like I have to prove myself all the time, and it's exhausting. I've been working longer hours, and it's hard to focus. I've also been feeling really lonely, even though I moved to a new city a year ago. I haven't made many friends here, and I've been canceling plans with coworkers. It's like I'm just going through the motions, but nothing feels right.
+
+Therapist: Alicia, I'm so sorry to hear about the loss of your grandmother. It's completely understandable that you're struggling to come to terms with that. It sounds like you're carrying a heavy emotional burden, and it's affecting various aspects of your life.
+
+It's great that you're aware of your feelings, which is the first step towards making changes. Let's break down some of the issues you mentioned. We can start by examining your thoughts and behaviors around work, your feelings about your grandmother's passing, and your experiences with loneliness and social isolation.
+
+Can you tell me more about what "going through the motions" means to you? What does that look like on a daily basis? For example, when you're at work, what thoughts are running through your mind? Are you beating yourself up over not being perfect? And when you're canceling plans with coworkers, what's going through your mind then?
+
+Let's also explore the idea of proving yourself at work. What does that mean to you? Are there any specific performance metrics or expectations that you're worried about meeting?
+
+Lastly, I want to acknowledge that it takes a lot of courage to admit to feeling lonely, especially in a new city. We can work together to build on small, manageable steps to help you address these feelings.
+
+How does that sound? Is there anything specific you'd like to focus on in this session or any specific concerns you have?
+
+Patient: Going through the motions means I feel like I'm just doing what's expected of me without really feeling it. At work, I'm constantly thinking about how I need to be perfect, how I can't make mistakes because I'm the team lead now. I worry that if I don't meet these high expectations, people will think I don't deserve my promotion. When I cancel plans with coworkers, it's usually because I feel too tired or just don't want to deal with the effort of socializing. I worry that if I go, I'll say or do something wrong, and they'll see how much I'm struggling.
+
+Proving myself at work means constantly overachieving, taking on more projects than I should, and working late to make sure everything is flawless. I'm worried about meeting deadlines, maintaining the quality of our code, and keeping my team motivated. It's a lot of pressure, and I feel like I'm always on edge.
+
+I think focusing on work might be a good place to start. It's where I spend most of my time, and it's been a big source of stress lately.
+
+Therapist: Alicia, it sounds like you're experiencing a lot of pressure and self-expectation at work, which is affecting your relationships and overall well-being. It's interesting that you mention feeling like you need to be perfect and that you're worried about making mistakes. This can be a common theme in perfectionism, where individuals feel like they need to meet incredibly high standards in order to be acceptable.
+
+Let's break this down further. Can you tell me more about what happens when you think about making mistakes at work? For example, what thoughts come into your mind? Do you catastrophize, thinking that one mistake will lead to a complete collapse of your team or organization? Or do you experience a more nuanced thought process?
+
+Also, I'd like to challenge the idea that you need to "prove yourself" at work. What if instead, you focused on meeting your own, realistic standards? What would that look like for you? Would it give you a sense of relief or accomplishment?
+
+Additionally, we can explore the concept of "all-or-nothing" thinking, where you feel like you need to be perfect or else you've failed. This can be a really damaging mindset, as it sets you up for disappointment and burnout. Would you be open to exploring ways to challenge and reframe these thoughts in a more balanced and compassionate way?
+
+Lastly, I want to acknowledge that it's okay to not be perfect and that it's normal to make mistakes. In fact, mistakes can often lead to growth and learning. Can you see how this might be true?
+
+Patient: When I think about making mistakes at work, I immediately imagine the worst-case scenario. I picture my team losing confidence in me, my boss questioning my abilities, and even getting demoted or fired. It's like one mistake could unravel everything I've worked so hard to achieve. I know it's probably not rational, but it feels very real to me.
+
+Focusing on meeting my own, realistic standards sounds like a good idea, but I'm not sure what that would look like in practice. I've always been driven by external expectations, so setting my own standards feels unfamiliar. I think it could give me a sense of relief, but I'm worried I might not push myself hard enough if I'm not constantly striving for perfection.
+
+I'm definitely open to exploring ways to challenge and reframe these thoughts. I know "all-or-nothing" thinking is not healthy, but it's hard to break out of that mindset. I've always believed that if I'm not perfect, I'm a failure, and that's been a big part of my identity for as long as I can remember.
+
+I understand that mistakes can lead to growth, but it's hard for me to see that in the moment. I tend to dwell on the mistake itself rather than the potential learning opportunity. I guess I need to work on shifting my perspective on that.
+
+Therapist: Alicia, it takes a lot of courage to admit to these thoughts and feelings. It sounds like you're caught in a cycle of catastrophic thinking, where you imagine the worst-case scenario, and that's making it hard for you to take risks and be more productive.
+
+Let's break down that worst-case scenario a bit. Can you tell me more about what's driving this fear of making mistakes? Is it related to a past experience or a fear of not meeting someone's expectations?
+
+Regarding setting your own standards, we can work together to identify what that would look like for you. It might be helpful to set some small, achievable goals that don't require you to be perfect. For example, instead of aiming for 100% on every project, we could set a goal to deliver a high-quality project with a 95% success rate. This way, you can still strive for excellence without putting yourself under undue pressure.
+
+It's also essential to recognize that perfectionism is not a healthy identity. In fact, research suggests that perfectionists tend to have lower self-esteem and are more prone to anxiety and depression. I want to gently challenge the idea that you're a failure if you're not perfect. That's not true, and I'm here to support you in developing a more compassionate and realistic self-image.
+
+Regarding shifting your perspective on mistakes, we can practice a thought experiment. Imagine you're walking on a hiking trail, and you slip and fall. What's the first thought that comes to mind? Is it "I'm such a failure"? Or is it "Oops, I made a mistake. Let me get back up and keep going"?
+
+Let's work on reframing your thoughts around mistakes. When you make a mistake, can we try to focus on the learning opportunity rather than dwelling on the mistake itself? For example, you could say to yourself, "I made a mistake, but what can I learn from it? How can I improve next time?".
+
+Patient: The fear of making mistakes is definitely tied to a lot of past experiences. Growing up, my parents had high expectations, and I always felt like I had to be the best to make them proud. In school, I was always competing with my peers, and in my career, it's been the same. I've always felt like I had to prove myself, especially as a Latina in tech.
+
+Setting small, achievable goals sounds like a good start. I think aiming for a 95% success rate on projects could help ease some of the pressure. It's still high, but it gives me some room for error, which I think I need.
+
+I understand that perfectionism isn't healthy, but it's been such a big part of my life for so long. I'm not sure how to let go of that identity. It's like I'm afraid that if I'm not perfect, I won't be good enough.
+
+When I imagine slipping on a hiking trail, my first thought is definitely "I'm such a failure." It's hard for me to see it as just a mistake that I can learn from. I tend to dwell on it and feel like it defines me.
+
+I'm willing to try reframing my thoughts around mistakes. I think focusing on the learning opportunity instead of the mistake itself could help me feel less overwhelmed. It's just hard to break
+
+Therapist: I'm glad we're having this conversation, Alicia. It takes a lot of courage to confront and challenge these deep-seated thoughts and feelings.
+
+Firstly, let's acknowledge that you're not alone in feeling the pressure to be perfect. Many people, especially women and minorities, face similar expectations and biases. It's not your fault that you've internalized these messages, and it's great that you're recognizing the harm they've caused.
+
+Regarding setting small, achievable goals, I want to emphasize that it's not about lowering your standards but about being more realistic and compassionate towards yourself. By aiming for a 95% success rate, you can still strive for excellence while acknowledging that you're human and that mistakes are an inevitable part of growth.
+
+Let's work on reframing your thoughts around mistakes. Instead of saying "I'm such a failure," you can try telling yourself, "I made a mistake, but what can I learn from it?" or "I made a mistake, but I can do better next time." Remember, mistakes are opportunities for growth, and it's okay to make them.
+
+To help you develop this new mindset, I'd like to assign you a thought experiment for next session. Whenever you make a mistake, I want you to write down three things you can learn from it. This can be a small action, a thought, or a feeling. The goal is to focus on the learning opportunity rather than dwelling on the mistake itself.
+
+Also, let's talk about self-compassion. I want you to practice being kind to yourself, just as you would to a friend. When you make a mistake, I want you to offer yourself the same kindness and understanding that you would offer to someone else in a similar situation. Can you try that for me?
+
+Lastly, I want to assure you that it's okay to not be perfect. In fact, it's more than okay – it's essential. By embracing your imperfections and acknowledging that you're human, you'll become more resilient and better equipped to handle challenges in the future.
+
+Before we conclude this session, I want to leave you with a homework assignment. Please write down three things you're proud of about yourself, not just your accomplishments but also your values and qualities. This can help you develop a more positive and compassionate self-image.
+
+How does that sound, Alicia? Is there anything else you'd like to discuss or explore before our next session?
+
+Patient: That sounds like a good plan, Nova. I'll try to focus on the learning opportunities when I make mistakes and practice being kind to myself. It's going to be a challenge, but I'm willing to give it a shot.
+
+For my homework, I'll write down three things I'm proud of about myself. I think it'll be a good exercise to remind myself of my strengths and values.
+
+I don't have anything specific to discuss right now, but I'm looking forward to our next session. Thanks for your support, Nova.

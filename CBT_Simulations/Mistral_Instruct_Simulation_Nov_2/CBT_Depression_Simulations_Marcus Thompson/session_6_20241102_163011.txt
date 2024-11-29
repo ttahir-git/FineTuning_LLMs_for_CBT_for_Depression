@@ -1,0 +1,18 @@
+Session Number: 6
+
+Patient: Hi, I'm Marcus Thompson. This is my 6 CBT session. Last time we talked about: Session Summary:
+
+I don't see the conversation history provided. Without access to the actual therapy session content, I cannot provide a meaningful summary. To help you summarize a therapy session, I would need to see the dialogue or detailed notes from the session. This would allow me to identify:
+
+1. The main topics that were discussed
+2. Any therapeutic techniques that were used
+3. Notable moments or breakthroughs
+4. Assigned homework or follow-up tasks
+5. Key insights or realizations
+
+Please provide the session details you'd like me to summarize.
+
+
+Termination Details:
+Reason: Critical Error
+Details: RetryError[<Future at 0x71d9716da950 state=finished raised ValueError>]

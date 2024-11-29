@@ -1,0 +1,91 @@
+Session Number: 13
+
+Patient: Hi, I'm Naomi Patel. This is my 13 CBT session. Last time we talked about: Session Summary:
+
+Session Summary #12
+
+Main Topics Discussed:
+- Recent challenging conversation with parents about gender identity
+- Feelings of isolation and disconnection from family
+- Managing negative automatic thoughts using thought records
+- Overall mood check-in and coping strategies
+
+Techniques/Exercises Introduced:
+- Thought Record technique to examine and challenge negative automatic thoughts
+- Evidence gathering for and against automatic thoughts
+- Rating emotion intensity before and after thought challenging
+- Development of balanced alternative thoughts
+
+Things That Appeared Helpful:
+- Breaking down thoughts using the thought record structure
+- Identifying evidence of small progress and changes
+- Creating more balanced alternative thoughts
+- Acknowledging both challenges and signs of progress
+
+Homework/Tasks:
+- Continue practicing thought records when negative automatic thoughts arise
+- Maintain current helpful coping strategies (support group attendance and poetry writing)
+
+Insights/Realizations:
+- Recognition that change with family is happening, albeit slowly
+- Understanding that while thoughts can be challenged, feelings may take longer to shift
+- Acknowledgment that support group meetings and creative expression are effective coping strategies
+- Awareness that the goal isn't to eliminate negative emotions entirely, but to manage them better
+
+Therapist: Discussion Summary:
+Session #12 Summary
+
+Main Topics Discussed:
+- Recent challenging conversation with parents about gender identity
+- Feelings of isolation and disconnection from family
+- Managing negative automatic thoughts using thought records
+- Overall mood check-in and coping strategies
+
+Techniques/Exercises Introduced or Reviewed:
+- Thought Record technique to examine and challenge negative automatic thoughts
+- Evidence gathering for and against automatic thoughts
+- Rating emotion intensity before and after thought challenging
+- Development of balanced alternative thoughts
+- Continued review and practice of self-care activities and behavioral activation
+- Introduction of coping cards as a way to reinforce adaptive thoughts and strategies
+
+Patient's Main Challenges:
+- Receiving challenging feedback at work, coupled with feelings of inadequacy and self-doubt
+- Struggling to maintain consistency with therapy homework and self-care activities
+- Verifying progress and challenges in the discussion
+
+Depression Symptoms and Insight:
+- Guilt, shame, and hopelessness related to the belief that the patient is disappointing their family by pursuing their own identity
+- Difficulty recognizing and acknowledging their own strengths and accomplishments
+- Increased hopefulness and insight into the connection between thoughts, feelings, and behaviors
+
+Goals and Treatment Plan:
+- Continue building on communication skills, particularly in the context of family relationships
+- Examine and challenge the belief that the patient is disappointing their family by pursuing their own identity
+- Encourage and support the patient in reaching out to their support system, including their chronic illness support group and online community
+- Continue practicing and refining coping strategies for managing intense emotions, such as thought records, grounding techniques, and self-care activities
+- Maintain focus on small, achievable goals and celebrate progress and successes along the way
+
+Homework Assigned:
+- Attend another chronic illness support group meeting and practice engaging with others
+- Bring any challenging situations or thoughts down for review in the next session
+- Continue practicing thought records and self-care activities when feeling able
+
+Important Information for Future Sessions:
+- Follow-up on patient's experience with attending another chronic illness support group meeting and practicing engagement
+- Continue building on communication and coping skills, addressing any challenges or setbacks that arise
+- Explore the patient's experience with practicing thought records and self-care activities, adjusting strategies as needed
+- Maintain focus on challenging negative beliefs, building self-esteem, and promoting engagement in valued activities
+- Continue to have small, manageable sessions to support the patient's capacity to process emotions and learn new skills.
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\bmain topics discussed\b'
+
+
+Session Summary:
+
+I apologize, but I don't see the conversation history from session 13 that you'd like me to summarize. Without access to the actual session content, I cannot provide a meaningful summary of the topics discussed, techniques used, or insights gained. 
+
+Could you please provide the session details you'd like me to analyze? Once you share that information, I'll be happy to create a structured summary focusing on the main points, techniques, helpful elements, homework assigned, and key insights from the session.

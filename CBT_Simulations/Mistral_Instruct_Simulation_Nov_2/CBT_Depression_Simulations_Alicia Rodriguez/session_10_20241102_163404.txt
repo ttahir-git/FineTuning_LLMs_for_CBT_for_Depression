@@ -1,0 +1,12 @@
+Session Number: 10
+
+Patient: Hi, I'm Alicia Rodriguez. This is my 10 CBT session. Last time we talked about: Session Summary:
+
+I apologize, but I don't see the conversation history from session 9 that you'd like me to summarize. Without the actual content of the therapy session, I cannot provide a meaningful summary of what was discussed, the techniques used, or the insights gained.
+
+If you could please share the conversation or transcript from the therapy session, I'll be happy to help create a concise summary focusing on the main topics, techniques, helpful elements, homework assigned, and key insights from the session.
+
+
+Termination Details:
+Reason: Critical Error
+Details: RetryError[<Future at 0x71d9716086d0 state=finished raised ValueError>]

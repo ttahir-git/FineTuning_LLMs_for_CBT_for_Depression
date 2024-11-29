@@ -1,0 +1,63 @@
+Session Number: 10
+
+Patient: Hi, I'm Samantha Chen. This is my 10 CBT session. Last time we talked about: Session Summary:
+
+Let me summarize today's (9th) session:
+
+Main topics discussed:
+- Review of previous session's work with the 15-minute timer technique
+- Discussion of perfectionism and its impact on business decisions
+- Exploration of a specific example where fear of failure led to business delays
+
+Techniques/exercises:
+- Continued refinement of the 15-minute timer technique
+- Discussion of making the technique more manageable and personalized
+
+Things that appeared helpful:
+- Identifying specific instances where perfectionism has impacted business decisions
+- Understanding how fear of negative feedback leads to delays
+- Recognition that adjustments to therapeutic techniques can make them more effective
+
+Homework assigned:
+1. Continue practicing the modified 15-minute timer technique
+2. Write about the experience of delaying the collection launch, focusing on:
+   - What led to the delay
+   - The impact on the business
+   - Lessons learned
+   - How to apply these insights to future decisions
+
+Key insights:
+- Recognition that perfectionism is causing tangible business impacts
+- Understanding that therapeutic techniques can be adjusted to be more effective
+- Acknowledgment that change takes time and patience is important
+
+The session showed good progress in identifying concrete examples of how perfectionism affects your business and demonstrated your willingness to continue working on these challenges with modified approaches.
+
+Therapist: Hello Samantha, it's great to see you again for our 10th session! I'm really proud of the progress you've made so far. Let's dive into today's session.
+
+Last time, we discussed how perfectionism can impact business decisions and you started practicing the 15-minute timer technique to help manage time more effectively. Today, let's build upon those discussions, focusing on personalizing the technique to better suit your needs.
+
+I'd also like to delve deeper into the specific example you provided of delaying the collection launch due to fear of failure. Let's explore the factors that led to this delay, the impact it had on your business, and the lessons you can learn from this experience. This will help you to apply these insights to future decisions and continue growing your business.
+
+Regarding homework, I encourage you to keep practicing the modified 15-minute timer technique and write about the experience of delaying the collection launch as mentioned. By focusing on the aspects listed, you'll be able to reflect on the situation and identify valuable insights.
+
+Remember that change takes time, but with patience and consistent effort, you'll make great strides in overcoming perfectionism and growing your business. I'm here to support you every step of the way, and I believe in your ability to succeed.
+
+Looking forward to our continued sessions together! If you have any questions or concerns, please don't hesitate to reach out.
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\bdon't hesitate to reach out\b'
+
+
+Session Summary:
+
+I apologize, but I don't see the conversation history from session 10 that you'd like me to summarize. Without the actual content of the therapy session, I cannot provide a meaningful summary of the topics discussed, techniques used, or insights gained. 
+
+If you'd like me to help summarize a therapy session, please provide the conversation details, and I'll be happy to analyze it according to the aspects you've mentioned:
+1. Main topics discussed
+2. Techniques or exercises introduced
+3. Helpful elements
+4. Homework assigned
+5. Key insights or realizations

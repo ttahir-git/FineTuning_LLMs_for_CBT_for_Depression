@@ -1,0 +1,88 @@
+Session Number: 14
+
+Patient: Hi, I'm Derek Olsen. This is my 14 CBT session. Last time we talked about: Session Summary:
+
+Here's a summary of Session 13:
+
+Main Topics Discussed:
+- Client's difficulty with previous thought record exercises
+- Feelings of failure and self-doubt
+- Physical manifestations of emotional pain
+- Avoidance behaviors and coping mechanisms
+
+Techniques/Exercises Introduced:
+- Thought watching technique: observing thoughts without judgment and questioning their validity
+- Using specific examples to demonstrate the technique (e.g., challenging the thought "I'm not good enough")
+- Breaking down the process of examining thoughts more objectively
+
+Things That Appeared Helpful:
+- Providing concrete examples of the thought watching technique
+- Acknowledging the difficulty of changing long-held thought patterns
+- Validating the client's struggles while encouraging small steps forward
+
+Homework Assigned:
+- Practice thought watching daily, particularly in the morning
+- Start observing thoughts without judgment
+- Question negative thoughts when they arise
+
+Insights/Realizations:
+- Client recognized that thoughts are "just words, not facts"
+- Acknowledged that negative self-talk has become a habit
+- Showed willingness to try new approaches despite skepticism
+- Demonstrated understanding of the thought watching concept, even while expressing doubt about its effectiveness
+
+Therapist: Welcome back, Derek! I appreciate you sharing the summary of our last session. It's great to see you applying the thought watching technique we discussed. Before we dive into today's agenda, I want to acknowledge a few limitations of our sessions together. As an AI, I don't have access to real-time information or personal details beyond what you share with me. There's also a possibility that I might generate inaccurate information at times. Additionally, I'm not equipped to provide crisis intervention or emergency services, and I can't directly observe or interpret non-verbal cues. With that said, I'm here to support you to the best of my abilities. How are you feeling today, and what's been on your mind since our last session?
+
+Patient: Yeah, I get that you're not perfect, but I'm here 'cause I need to be, not 'cause I want to be. Feeling about the same, I guess. Still dealing with the pain, still trying to keep my head above water. Thought watching, that's what we called it last time, right? I've been trying it, but it's like trying to catch smoke. Some days it feels like I'm just spinning my wheels. How's that for a real answer?
+
+Therapist: I hear you, Derek. It's a real struggle to keep going, and some days it feels like we're just spinning our wheels. But the fact that you're showing up, trying to catch those thoughts, it's a big deal. I appreciate your honesty about the tough moments, too. Remember, it's a journey, not a race. We're in this together, and we'll keep working through it. Before we dive deeper, let's take a moment to set an agenda for today. We can review your homework, discuss the challenges you've faced, and explore some new strategies. What feels important to you to focus on today?
+
+Patient: Alright, let's get to it. I guess we can start with the thought watching. I've been trying it, but it's hard to tell if it's doing any good. Some days I catch myself thinking, "I'm not good enough," and I try to question it, but it's like a reflex. I don't know if I'm doing it right. Maybe we can go over an example again, something more specific? And then, I've been thinking about my kids. I know I've been distant, and I hate that. I don't want them to think I don't care, but I'm just so damn tired all the time. Maybe we can talk about that too.
+
+Therapist: Let's start with your homework. You mentioned that you've been trying the thought watching technique, but it's been challenging. Can you share a specific example of when you tried it and what you noticed?
+
+Patient: Alright, let's see. The other day, I was sitting in my living room, just staring at the TV, and I had this thought pop into my head: "I'm a failure. I can't do anything right." So, I tried to catch it, like you said, and I asked myself, "Is that really true?" But then another thought came up, "Yeah, it is true. Look at my life." It's like I can't get past that first thought. It's like a loop, you know?
+
+Therapist: I understand how that thought loop can be challenging to break out of. Remember, when we question our thoughts, we're not trying to convince ourselves that everything is fine or that we're not a failure. We're just looking at the situation more objectively, considering all the facts. Let's try another example. This time, instead of waiting for a negative thought to pop up, let's plan to watch one that comes up at a specific moment. When do you think you'll have a chance to practice this technique today?
+
+Patient: Well, I usually have my worst thoughts in the morning. I wake up, and the pain hits me first thing. Then I start thinking about how I can't do anything, how I'm just a burden. Maybe we can plan for that moment? I'll try to catch those thoughts when they come up, and we can go over it next time.
+
+Therapist: That's a great plan, Derek. The morning is a good time to practice because it's when those automatic negative thoughts often arise. Before we move on, I want to acknowledge that this process of challenging your thoughts can be emotionally taxing. It's normal to feel a bit drained after doing this work. Remember to take care of yourself and engage in self-care activities, such as going for a walk, calling a friend, or engaging in a hobby that brings you joy. How do you feel about incorporating some self-care into your routine?
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\btake care\b'
+
+
+Session Summary:
+
+Session Summary #14
+
+Main Topics Discussed:
+- Review of thought watching technique implementation
+- Struggles with persistent negative thoughts and self-doubt
+- Concerns about being distant from children due to fatigue
+- Morning routine and associated negative thought patterns
+
+Techniques/Exercises Introduced/Practiced:
+- Refined approach to thought watching technique
+- Planning specific moments to practice thought observation
+- Objective questioning of negative thoughts
+
+Things That Appeared Helpful/Important:
+- Client's willingness to try the thought watching technique despite difficulties
+- Identification of specific challenging moments (morning routine)
+- Open discussion about parenting concerns and fatigue
+- Recognition of thought loops and patterns
+
+Homework Assigned:
+- Practice thought watching specifically during morning routine
+- Document thoughts that arise during these morning moments
+- Prepare to discuss results in next session
+
+Insights/Realizations:
+- Client recognizes pattern of negative thought loops
+- Acknowledgment of the connection between physical pain and negative thoughts
+- Understanding that changing thought patterns is a gradual process
+- Recognition of the impact of fatigue on parenting abilities

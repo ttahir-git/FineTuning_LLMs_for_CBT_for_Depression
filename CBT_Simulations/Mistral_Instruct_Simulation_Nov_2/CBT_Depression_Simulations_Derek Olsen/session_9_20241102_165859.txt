@@ -1,0 +1,108 @@
+Session Number: 9
+
+Patient: Hi, I'm Derek Olsen. This is my 9 CBT session. Last time we talked about: Session terminated due to error: RetryError[<Future at 0x71d97160ceb0 state=finished raised ValueError>]
+
+Therapist: Hello Derek, welcome back to our sessions! I'm sorry for the inconvenience during our last session. Let's focus on today and continue working through the challenges you're facing. To help me better understand, could you briefly summarize what we discussed during our previous session? This will help us get back on track and continue making progress together.
+
+Patient: Last session? I don't remember much. Something about my back pain and how it's messing with my head. You were trying to get me to see how I'm using it as an excuse to avoid stuff, but it's real pain, you know? I just want to get through the day without feeling like I'm being ripped apart.
+
+Therapist: I understand that your back pain is a real issue causing you discomfort. It's important to acknowledge the physical symptoms you're experiencing while also exploring any potential psychological factors that may be exacerbating your pain or affecting your quality of life. Let's approach this as a team and work together to identify and address these factors, with the goal of helping you manage your back pain more effectively.
+
+To start, let's review some techniques we've discussed in the past that may help you cope with the pain and reduce any associated anxiety or negative thinking:
+
+1. Mindfulness: Being present and focusing on your thoughts, feelings, and bodily sensations can help you better understand and manage your pain.
+2. Cognitive restructuring: Identifying and challenging negative thoughts related to your pain can help you develop a more balanced and realistic perspective.
+3. Graded exposure: Gradually exposing yourself to activities that you've been avoiding due to your back pain can help you rebuild confidence and improve your ability to cope with the discomfort.
+4. Pleasant activity scheduling: Engaging in enjoyable activities, even if they're only for a short period, can help improve your mood and overall well-being.
+
+How does this sound, and which of these techniques would you like to focus on in this session?
+
+Patient: Mindfulness, huh? I tried that once. Sat there trying to focus on my breath, but all I could think about was how much my back hurt. It didn't really help. 
+
+Cognitive restructuring sounds like a bunch of fancy talk. What's that mean, exactly? Like, telling myself to stop feeling sorry for myself? Because I've been doing that for years, and it hasn't worked so far.
+
+Gradual exposure? I guess that makes sense. I've been avoiding a lot of stuff because of the pain. But how do I know what I can handle? I don't want to push myself too hard and end up in more pain.
+
+Pleasant activity scheduling... I used to love woodworking and fishing. Haven't touched my tools in ages. Maybe that's something I could try again, but I don't know if I'm ready for that kind of strain on my back.
+
+Therapist: I appreciate your honesty and openness, Derek. It's important to acknowledge the challenges you've faced in the past when trying new coping strategies. Let's work together to address these concerns and adapt the techniques to better suit your needs:
+
+1. Mindfulness: It's common for our minds to wander, especially when we're trying to focus on something uncomfortable like pain. Instead of trying to stop your thoughts, focus on observing them without judgment. This can help you become more aware of your thoughts and emotions, which in turn can help you better manage your pain.
+2. Cognitive restructuring: This isn't about ignoring or suppressing your feelings, but rather about challenging negative thoughts that may be contributing to your distress. For example, instead of thinking, "I'll never be able to do the things I love again," you could reframe that thought to, "I'm experiencing some discomfort, but I can still participate in activities I enjoy." This can help you maintain a more balanced and realistic perspective.
+3. Graded exposure: To avoid pushing yourself too hard, start with small, manageable steps and gradually increase the intensity of the activities as your confidence and tolerance improves. This may involve breaking activities down into smaller parts and setting realistic goals. As always, it's important to listen to your body and stop if you feel any increase in pain or discomfort.
+4. Pleasant activity scheduling: It's great that you have ideas for activities you'd like to reintroduce into your life. Start by setting aside a short period each day to engage in one of these activities, even if it's just for a few minutes. This can help you build up your tolerance and gradually increase the time you spend on these activities as your pain management improves.
+
+Remember, these techniques are tools to help you manage your pain and improve your quality of life. They may not work right away, and it's okay to experiment with different strategies to find what works best for you. Let's continue working together to explore these techniques and adapt them to your unique situation. How does this sound, Derek? Which technique would you like to focus on in this session?
+
+Patient: Mindfulness, I guess. I can try that again. Maybe if I don't force it, it'll be easier to just let my thoughts come and go. 
+
+Cognitive restructuring... I get what you're saying about challenging those negative thoughts. It's just hard to see things differently when you're stuck in a rut like I am. But I'll give it a shot.
+
+Gradual exposure sounds like something I need to think about more. I don't want to jump into something and regret it. Maybe we can talk more about that next time.
+
+Pleasant activity scheduling... I'll try to set aside some time for woodworking or fishing. Even if it's just for a few minutes, it might help me feel a bit better.
+
+So, let's focus on mindfulness and cognitive restructuring for now. How do I start with those?
+
+Therapist: To begin with mindfulness, find a quiet and comfortable place to sit or lie down. Close your eyes and take a few deep breaths, focusing on the sensation of your breath moving in and out of your body.
+
+When thoughts inevitably arise, simply acknowledge them and let them pass without engaging with them. Instead, return your focus to your breath or bodily sensations. Remember, the goal is not to suppress your thoughts but to observe them without judgment.
+
+For cognitive restructuring, practice identifying negative thoughts related to your pain or overall well-being. Once you've identified a negative thought, try to reframe it in a more balanced and realistic way. Here are some examples:
+
+* Negative thought: "I'll never get rid of this back pain, I'm doomed to live in discomfort for the rest of my life."
+	+ Reframed thought: "I'm experiencing back pain right now, but there are techniques and strategies I can use to manage it and improve my quality of life."
+* Negative thought: "I'm weak because I can't do as much as I used to before the pain started."
+	+ Reframed thought: "I have limits due to my pain, but I'm capable and can still contribute in meaningful ways."
+
+Try to catch and reframe negative thoughts as they arise throughout your day. This can help you develop a more balanced and realistic perspective, which may in turn help you better manage your pain.
+
+Let's continue to work together to develop these skills and explore other techniques that may help you manage your back pain and improve your overall well-being. Good luck with your practice, Derek!
+
+Patient: Mindfulness, okay. I'll try to find a quiet spot and just focus on my breath. It's hard to ignore the pain, but I'll give it a shot.
+
+Cognitive restructuring... I see what you're getting at with those examples. It's like trying to find a silver lining in a dark cloud. I'll keep an eye out for those negative thoughts and see if I can reframe them.
+
+Thanks for the tips, Nova. I'll give these a try and see how it goes. Maybe it'll help me feel a bit better, even if it's just a little.
+
+Therapist: Great progress, Derek! Remember, it's normal to have difficulty with these techniques at first, but with practice, they will become easier and more effective. If you find yourself struggling, don't hesitate to reach out for support or discuss any challenges you encounter during our next session. Keep up the good work, and I look forward to hearing about your progress!
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\bdon't hesitate to reach out\b'
+
+
+Session Summary:
+
+Session Summary:
+
+1. Main topics discussed:
+- Back pain management
+- Psychological impact of chronic pain
+- Various coping strategies and techniques
+
+2. Techniques/exercises introduced:
+- Mindfulness meditation
+- Cognitive restructuring
+- Graded exposure (briefly discussed)
+- Pleasant activity scheduling
+
+3. Things that appeared helpful/important:
+- Client showed openness to trying mindfulness again with a different approach
+- Recognition of negative thought patterns
+- Interest in returning to previously enjoyed activities (woodworking, fishing)
+- Willingness to start with small, manageable steps
+
+4. Homework assigned:
+- Practice mindfulness meditation in a quiet space
+- Identify and reframe negative thoughts using cognitive restructuring techniques
+- Consider setting aside brief periods for enjoyable activities
+
+5. Insights/realizations:
+- Client acknowledged using pain as an avoidance mechanism
+- Recognition that forcing mindfulness wasn't effective in the past
+- Understanding that gradual reintroduction to activities might be beneficial
+- Acceptance that small steps and realistic expectations are important
+
+The session showed progress in client's willingness to try new approaches to pain management, though some skepticism remains. Focus was primarily on mindfulness and cognitive restructuring as starting points.

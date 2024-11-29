@@ -1,0 +1,12 @@
+Session Number: 8
+
+Patient: Hi, I'm Derek Olsen. This is my 8 CBT session. Last time we talked about: Session Summary:
+
+I apologize, but I don't see the conversation history from session 7 that you'd like me to summarize. Without the actual content of the therapy session, I cannot provide a meaningful summary of what was discussed, techniques used, or insights gained. 
+
+Could you please provide the conversation details from the therapy session you'd like me to analyze? Once you share that information, I'll be happy to create a structured summary focusing on the main topics, techniques, helpful elements, homework, and key insights from the session.
+
+
+Termination Details:
+Reason: Critical Error
+Details: RetryError[<Future at 0x71d97160ceb0 state=finished raised ValueError>]

@@ -1,0 +1,90 @@
+Session Number: 18
+
+Patient: Hi, I'm Derek Olsen. This is my 18 CBT session. Last time we talked about: Session Summary:
+
+I apologize, but I don't see the conversation history from session 17 that you'd like me to summarize. Without the actual content of the therapy session, I cannot provide a meaningful summary of the topics discussed, techniques used, or insights gained. 
+
+If you'd like me to help summarize a therapy session, please provide the conversation details or transcript, and I'll be happy to analyze it according to the aspects you've mentioned:
+1. Main topics discussed
+2. Techniques or exercises introduced
+3. Helpful elements
+4. Homework assigned
+5. Key insights and realizations
+
+Therapist: Understood, Derek Olsen. Let's move forward with our 18th session. To help me tailor our discussion to your needs and progress, it would be beneficial if we could briefly review the main topics, techniques, and insights we discussed in our previous sessions.
+
+This way, we can build upon the work we've done, identify the areas where you feel comfortable, and focus on the aspects you still want to work on. Please share your thoughts and feelings about the techniques and exercises we've introduced so far, and let me know what you've found helpful or challenging.
+
+Additionally, I would like to know if there are any specific concerns or goals you'd like to focus on during our session today. By discussing these matters, we can continue to make the most of our time together and help you work towards your mental wellness goals.
+
+Once we've had a chance to review your previous sessions, I'll be able to better assist you during our conversation. I'm looking forward to working with you, Derek.
+
+Patient: Alright, let's see. Last time, we talked about how I've been feeling more isolated lately, and you suggested I try to reach out to my kids more. I did try calling Emma, but she didn't pick up. I left a message, but I haven't heard back. It's been tough, you know? I feel like a burden to them.
+
+As for the techniques, I've been trying to use that breathing exercise you showed me when the pain gets really bad. It helps a bit, but it's not a cure-all. I still get angry and frustrated, especially when I can't do the things I used to, like woodworking or even just walking around the block.
+
+I guess my main concern today is how to deal with this constant feeling of worthlessness. I used to be someone who could fix anything, and now I can't even fix myself. It's eating me up inside. I don't know how to shake it off.
+
+Therapist: Thank you for sharing that, Derek. It's understandable that you might feel frustrated and isolated, especially when you've reached out to your loved ones but haven't heard back yet.
+
+Regarding your breathing exercise, I'm glad to hear that it's helping to manage the pain to some extent. However, I understand that it may not completely eliminate your feelings of anger and frustration. In these moments, it could be helpful to try the following techniques:
+
+1. Mindfulness: Focusing on the present moment, accepting your thoughts and feelings without judgment, and observing them as they arise can help you regain control of your emotions.
+
+2. Cognitive restructuring: Challenge negative thoughts and beliefs by asking yourself if they are true, helpful, and necessary. Then, replace these thoughts with more balanced, positive, and productive ones.
+
+3. Self-compassion: Practice self-kindness, acknowledging your feelings without judgment, and offering yourself understanding and support.
+
+Now, let's focus on your main concern: feeling worthless. This is a common emotion, particularly for people going through difficult times. Here are some ways we can work on addressing this feeling:
+
+1. Identify your strengths and accomplishments: Make a list of your positive qualities and the things you're proud of, even if they seem small. Remembering these can help you feel more valued and capable.
+
+2. Re-frame your self-talk: Try to catch and challenge any negative self-talk or thoughts that contribute to feelings of worthlessness. Instead, focus on more positive and empowering self-talk.
+
+3. Set achievable goals: Break down larger goals into smaller, manageable tasks, and celebrate your achievements along the way.
+
+4. Practice self-compassion: Treat yourself with kindness, understanding, and support, just as you would a close friend.
+
+For today's session, let's focus on these techniques to help you work through your feelings of worthlessness. If you'd like, we can also discuss strategies for reaching out to your kids again, or any other concerns that have come up since our last session.
+
+Remember, it's important to be patient with yourself, as change takes time and practice. I'm here to support you on your journey, so please don't hesitate to reach out if you need help or encouragement along the way.
+
+Homework:
+
+1. Each day, make a list of three things you're grateful for and three positive self-statements.
+2. Practice the breathing exercise when you feel stressed or in pain, and try incorporating mindfulness, cognitive restructuring, and self-compassion techniques as needed.
+3. Reach out to Emma again, letting her know you care.
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\bdon't hesitate to reach out\b'
+
+
+Session Summary:
+
+Let me summarize this therapy session:
+
+1. Main topics discussed:
+- Feelings of isolation and difficulty connecting with family, particularly following up on attempts to reach out to daughter Emma
+- Ongoing struggles with physical limitations and their emotional impact
+- Feelings of worthlessness and loss of identity, particularly related to no longer being able to do previously valued activities
+- Previous attempts at using breathing exercises for pain management
+
+2. Techniques/exercises introduced or practiced:
+- Previous breathing exercises for pain management were discussed and their effectiveness was evaluated
+
+3. Things that appeared helpful/important:
+- Recognition that breathing exercises provide some relief, though limited
+- Patient's willingness to reach out to family despite fear of being a burden
+- Clear connection between physical limitations and emotional well-being
+
+4. Homework/tasks assigned:
+- None explicitly mentioned in this excerpt
+
+5. Insights/realizations:
+- Strong connection between self-worth and ability to be productive/helpful
+- Physical limitations are affecting not just daily activities but core identity
+- Despite feeling like a burden, patient is making efforts to maintain family connections
+
+The session reveals ongoing struggles with adjusting to physical limitations and their impact on self-worth, complicated by challenges in family relationships and feelings of isolation.

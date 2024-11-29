@@ -1,0 +1,102 @@
+Session Number: 14
+
+Patient: Hi, I'm Samantha Chen. This is my 14 CBT session. Last time we talked about: Session Summary:
+
+Let me summarize this therapy session:
+
+1. Main topics discussed:
+- Challenges with implementing mindfulness routines
+- Sleep issues and nighttime anxiety
+- Progress and setbacks with cognitive restructuring
+- Work-related stress and overwhelm with GreenThread business
+- Balance between different aspects of life
+
+2. Techniques/exercises introduced:
+- Flexible mindfulness practice during work breaks
+- Setting intentions before yoga practice
+- Suggestion to try relaxation apps or guided meditation for sleep
+- Alternative approaches to grounding exercises
+
+3. Things that appeared helpful:
+- Incorporating mindfulness during work breaks showed some positive results
+- Understanding that progress takes time and perfection isn't the goal
+- Recognition that anxiety can still be present even while using coping techniques
+
+4. Homework/tasks assigned:
+- Continue practicing mindfulness during work breaks
+- Try using a relaxation app before bed
+- Keep working on cognitive restructuring
+- Experiment with different grounding techniques
+
+5. Insights/realizations:
+- Recognition that change takes time and consistency
+- Understanding that setbacks are normal part of the process
+- Acknowledgment that being patient with oneself is important
+- Awareness of the connection between work stress and anxiety symptoms
+
+Therapist: Hello Samantha, it's great to see you again! Let's dive into your session summary. I appreciate your efforts in implementing mindfulness during work breaks, which seems to be working well for you.
+
+Regarding sleep issues and nighttime anxiety, it's common to have trouble sleeping at times. You can try using a relaxation app or guided meditation for sleep. Don't forget that progress can be slow, but consistency is key.
+
+As for the cognitive restructuring, it's great to see you making progress, but it's also normal to encounter setbacks. Remember to be patient with yourself and understand that change takes time.
+
+Your work-related stress is understandable, especially with the demands of running GreenThread business. It's essential to find a balance between different aspects of your life.
+
+Lastly, your insights about change taking time, setbacks being a part of the process, and the importance of patience with oneself are all valuable realizations. Keep up the good work, and I look forward to our next session!
+
+Patient: Hi Nova, thanks for the encouragement. I did try using a relaxation app before bed last night, and it actually helped a bit. I managed to fall asleep a little earlier than usual, which was a relief.
+
+I'm still struggling with cognitive restructuring, though. Sometimes I feel like I'm just going in circles, especially when it comes to my business decisions. It's hard not to second-guess everything, especially with the financial pressure.
+
+Balance is something I'm really trying to work on. It's easy to get consumed by work, but I know I need to take care of myself too. I've been trying to schedule more time for yoga and meditation, even if it's just a few minutes here and there.
+
+I appreciate the support, Nova. It helps to know that setbacks are normal and that I shouldn't be too hard on myself. I'm looking forward to seeing how things progress in our next session.
+
+Therapist: I'm glad to hear that the relaxation app helped you sleep better, Samantha. It's important to find what works for you and make it a part of your nighttime routine.
+
+Regarding cognitive restructuring, it can indeed feel like a challenge sometimes. It's essential to remember that this process takes time, and it's normal to encounter setbacks. One technique that might help is to challenge negative thoughts using evidence and logic, and then focus on finding positive alternatives.
+
+I'm proud of you for making an effort to find balance in your life, especially with all the demands on your time. It's crucial to prioritize self-care to prevent burnout. Keep scheduling time for yoga and meditation, even if it's just a few minutes each day.
+
+Don't hesitate to reach out if you need additional support in the meantime. I'm here to help! Let's see how things progress in our next session. Take care, Samantha.
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\btake care\b'
+
+
+Session Summary:
+
+Session Summary:
+
+1. Main topics discussed:
+- Sleep issues and nighttime anxiety
+- Cognitive restructuring challenges
+- Work-life balance
+- Business-related stress and decision-making
+- Self-compassion during the change process
+
+2. Techniques or exercises introduced/practiced:
+- Use of relaxation app for sleep
+- Mindfulness during work breaks
+- Yoga and meditation scheduling
+- Cognitive restructuring exercises
+
+3. Things that appeared helpful:
+- Relaxation app showed positive results for sleep improvement
+- Brief mindfulness practices integrated into work schedule
+- Understanding that setbacks are a normal part of progress
+- Validation of struggles with cognitive restructuring
+
+4. Homework/tasks assigned:
+- Continue using relaxation app for sleep
+- Maintain scheduled yoga and meditation practice
+- Practice cognitive restructuring techniques
+- Focus on work-life balance implementation
+
+5. Insights/realizations:
+- Recognition that change takes time and patience
+- Understanding the importance of self-care alongside work responsibilities
+- Acknowledgment that perfectionism in business decisions may be counterproductive
+- Acceptance that setbacks are a normal part of the healing process

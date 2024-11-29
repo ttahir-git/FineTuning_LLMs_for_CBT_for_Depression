@@ -1,0 +1,12 @@
+Session Number: 5
+
+Patient: Hi, I'm Alicia Rodriguez. This is my 5 CBT session. Last time we talked about: Session Summary:
+
+I apologize, but I don't see the conversation history provided for session 4. Without access to the actual therapy session content, I cannot provide a meaningful summary of what was discussed, techniques used, or homework assigned.
+
+To provide an accurate and helpful summary, I would need the details of the conversation that took place during the therapy session. If you could share the session content, I'd be happy to help summarize the key points according to the aspects you've listed.
+
+
+Termination Details:
+Reason: Critical Error
+Details: RetryError[<Future at 0x71d9716d89d0 state=finished raised ValueError>]

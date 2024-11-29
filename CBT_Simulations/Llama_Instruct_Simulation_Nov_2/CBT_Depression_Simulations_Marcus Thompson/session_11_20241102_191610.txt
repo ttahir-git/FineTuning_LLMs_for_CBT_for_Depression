@@ -1,0 +1,77 @@
+Session Number: 11
+
+Patient: Hi, I'm Marcus Thompson. This is my 11 CBT session. Last time we talked about: Session Summary:
+
+Thank you for sharing your understanding and commitment to trying the Time Cube exercise, Marcus. Your approach sounds well-thought-out and organized. Before we wrap up today's session, I'd like to make sure we're clear on next steps:
+
+1. You'll create your Time Cube this week, including noting overlapping tasks and using the 1-3 priority system
+2. You'll start tracking your progress using a calendar or habit tracker
+3. You'll review how this system is working for you at our next session
+
+Would you like to schedule a specific time to review your Time Cube together next session? This would give us a chance to discuss any challenges you've encountered and make adjustments if needed.
+
+Also, is there anything else you'd like to discuss before we end today's session? Any concerns or questions about implementing this new system?
+
+Remember, the goal isn't perfection - it's about finding a better balance that works for you and your family. How are you feeling about taking on this new organizational approach?
+
+Therapist: Hello again, Marcus. It's great to see you're committed to implementing the Time Cube exercise. I'm glad we could solidify the next steps together. Regarding scheduling a specific time to review your Time Cube next session, I think that's a great idea. Let's plan on doing that during our next session, which is in two weeks. Would 15-20 minutes be sufficient for us to review your progress and make any necessary adjustments? 
+
+Before we conclude today's session, I do want to check in on how you're feeling about starting this new approach. Are you feeling any anxiety or resistance about implementing this system? Have you had any moments of uncertainty or self-doubt since our last session? 
+
+Additionally, I want to acknowledge that managing time and prioritizing tasks can be complex, especially when balancing family responsibilities. Are there any specific challenges or areas where you're feeling stuck, and would you like some additional guidance or support?
+
+Patient: Thanks for checking in, Nova. I appreciate the support. Honestly, I do feel a bit anxious about starting the Time Cube system. There's a part of me that worries I won't be able to stick to it, especially with everything else going on. I mean, I've got lesson planning, community work, co-parenting, and now caring for my mom. It feels like a lot to juggle.
+
+But at the same time, I know I need to try something different. I've been feeling so overwhelmed lately, and I think this could help. I just hope I can find the right balance.
+
+As for specific challenges, I'm really struggling with the time I spend with my kids. I feel like I'm always rushing them, and I don't want them to feel neglected. Do you have any tips on how to make sure I'm giving them the attention they need while still managing everything else?
+
+Therapist: Hello, Marcus. I'm glad you're being open about your concerns. It's completely normal to feel anxious about trying something new, especially when you have a lot on your plate. The Time Cube system can be a great tool to help you manage your time more effectively, but it's not a magic solution that will automatically solve all your problems.
+
+First, let's acknowledge that you're already taking a big step by acknowledging your feelings and recognizing the need for change. That takes a lot of courage.
+
+Regarding your concerns about spending time with your kids, I want to assure you that it's not about sacrificing quality time with them, but rather finding a better balance that works for everyone. The Time Cube system can actually help you prioritize your time with them more effectively.
+
+One suggestion I have is to use your 1-3 priority system to identify specific times during the day or week when you can dedicate to your kids. This could be as simple as setting aside 30 minutes each morning for breakfast and conversation, or scheduling a family game night or activity on the weekends.
+
+Another idea is to use the " Time Cube" principle to schedule dedicated blocks of time for yourself, your kids, and other important activities. This way, you can ensure that you're not overcommitting and leaving everyone feeling overwhelmed.
+
+It's also worth exploring ways to communicate with your kids about your schedule and expectations. By being open and transparent with them, you can help them understand what's going on and feel more secure.
+
+Lastly, remember that it's okay to not be perfect. You're not trying to win a prize for most efficient time manager; you're trying to find a better balance that works for you and your family. Be kind to yourself, and don't hesitate to reach out if you need additional support or guidance.
+
+How do these suggestions sound? Is there anything in particular that resonates with you, or any other concerns you'd like to discuss before we wrap up today's session?
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\bdon't hesitate to reach out\b'
+
+
+Session Summary:
+
+Session Summary:
+
+1. Main topics discussed:
+- Implementation of the Time Cube exercise
+- Anxiety about starting new time management system
+- Juggling multiple responsibilities (teaching, community work, co-parenting, caring for mother)
+- Concerns about quality time with children
+
+2. Techniques/exercises introduced:
+- Time Cube system (continued discussion and planning)
+- Scheduled review of Time Cube progress for next session (15-20 minutes)
+
+3. Helpful/important elements:
+- Client's self-awareness about needing change despite anxiety
+- Recognition of current overwhelm and desire to improve
+- Open expression of concerns about parenting quality
+
+4. Homework assigned:
+- Begin implementing Time Cube system
+- Track progress for review in next session
+
+5. Insights/realizations:
+- Client showing awareness of tension between need for change and fear of failure
+- Recognition that current approach to time management isn't sustainable
+- Clear concern about impact of time management issues on children

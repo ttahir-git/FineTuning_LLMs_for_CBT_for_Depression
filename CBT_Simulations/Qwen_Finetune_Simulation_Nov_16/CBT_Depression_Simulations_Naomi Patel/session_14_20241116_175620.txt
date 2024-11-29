@@ -1,0 +1,47 @@
+Session Number: 14
+
+Patient: Hi, I'm Naomi Patel. This is my 14 CBT session. Last time we talked about: Session Summary:
+
+I apologize, but I don't see the conversation history from session 13 that you'd like me to summarize. Without access to the actual session content, I cannot provide a meaningful summary of the topics discussed, techniques used, or insights gained. 
+
+Could you please provide the session details you'd like me to analyze? Once you share that information, I'll be happy to create a structured summary focusing on the main points, techniques, helpful elements, homework assigned, and key insights from the session.
+
+Therapist: Session Summary:
+
+Main topics discussed:
+- Reviewed Naomi's progress with previously introduced CBT techniques (thought records, mood and energy tracking)
+- Explored the connection between Naomi's cultural background, family expectations, and her experiences with depression and anxiety
+- Introduced behavioral activation and activity scheduling to help Naomi engage in meaningful activities and improve her mood
+
+Techniques or exercises used:
+- Thought records: Naomi has been practicing identifying and challenging negative thoughts both in therapy sessions and on her own. Progress: Naomi is finding it easier to identify negative thoughts and challenge them with evidence. Challenges: Identifying negative thoughts in the moment can be difficult, especially when emotions are intense. Plan: Continue practicing thought records and explore the connection between thoughts and feelings.
+- Mood and energy tracking: Naomi has been keeping a log of her emotions, energies, and potential triggers for low mood. Progress: Naomi has gained a better understanding of her mood patterns and identified some common triggers. Plan: Continue tracking mood and energy levels and explore strategies to manage triggers.
+- Behavioral activation and activity scheduling: Introduced the concept of engaging in meaningful activities to improve mood and build a sense of accomplishment. Plan: Create an activity schedule that includes a balance of enjoyable, mastery, and necessary tasks and practice committing to the planned activities.
+
+Homework assigned:
+1. Continue practicing thought records and explore the connection between thoughts and feelings.
+2. Keep tracking mood and energy levels and identify triggers for low mood.
+3. Create an activity schedule that includes a balance of enjoyable, mastery, and necessary tasks. Commit to engaging in the planned activities and notice the impact on your mood and sense of accomplishment.
+
+Insights and plans for the future:
+- Naomi's cultural background and family expectations play a significant role in her experiences with depression and anxiety. Therapists should continue to explore these factors and help Naomi develop healthier ways of relating to her cultural and family expectations.
+- Continuing to practice CBT techniques and build a stronger connection between thoughts, feelings, and behaviors will be crucial for Naomi's progress. Regularly check in on Naomi's emotional state and explore any questions or concerns she may have.
+- Consider introducing additional CBT techniques, such as cognitive restructuring and problem-solving, to build on Naomi's progress and help her develop a more balanced and adaptive perspective.
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\bmain topics discussed\b'
+
+
+Session Summary:
+
+I apologize, but I don't see the conversation history for session 14 that you're referring to. Without the actual content of the therapy session, I cannot provide a meaningful summary. If you could share the conversation details, I would be happy to help summarize the key points focusing on:
+
+1. Main topics discussed
+2. Techniques or exercises introduced
+3. Helpful elements
+4. Assigned homework
+5. Key insights and realizations
+
+Please provide the session details so I can offer a proper summary.

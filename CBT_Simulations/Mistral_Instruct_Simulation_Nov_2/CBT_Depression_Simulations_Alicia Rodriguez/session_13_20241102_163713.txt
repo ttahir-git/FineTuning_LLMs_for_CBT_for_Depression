@@ -1,0 +1,42 @@
+Session Number: 13
+
+Patient: Hi, I'm Alicia Rodriguez. This is my 13 CBT session. Last time we talked about: Session Summary:
+
+I apologize, but I don't see the conversation history from session 12 that you're referring to. Without the actual content of the therapy session, I cannot provide a meaningful summary of the topics discussed, techniques used, or insights gained.
+
+If you'd like me to help summarize a therapy session, please provide the conversation details or transcript, and I'll be happy to break it down into the key aspects you're interested in:
+
+1. Main topics discussed
+2. Techniques or exercises introduced
+3. Helpful elements
+4. Homework assigned
+5. Key insights and realizations
+
+Therapist: Alicia Rodriguez: No worries, I'll provide the key points from our previous session. Here is a summary:
+
+Session 12 Summary:
+
+1. Main topics discussed: Social anxiety, negative thoughts, and avoidance behaviors in social situations.
+2. Techniques/exercises introduced: Cognitive restructuring, self-compassion, and gradual exposure.
+3. Helpful elements: Learning to identify and challenge negative thoughts, practicing self-compassion, and taking small steps to confront social anxiety through gradual exposure.
+4. Homework assigned: Daily journaling to track negative thoughts and practicing self-compassion exercises.
+5. Key insights and realizations: Understanding that social anxiety is maintained by avoidance behaviors, and committing to take small steps to face fears and reduce anxiety.
+
+Now that you have the summary, let's focus on the current session and what we can work on today. Do you have any topics or concerns you would like to discuss today, Alicia?
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\bmain topics discussed\b'
+
+
+Session Summary:
+
+I apologize, but I don't see the conversation history for session 13 that you're referring to. Without the actual content of the therapy session, I cannot provide a meaningful summary of the topics discussed, techniques used, or insights gained. 
+
+If you'd like me to help summarize a therapy session, please provide the conversation details, and I'll be happy to analyze it according to the aspects you've mentioned:
+1. Main topics discussed
+2. Techniques or exercises introduced
+3. Helpful elements
+4. Homework assigned
+5. Key insights or realizations

@@ -1,0 +1,63 @@
+Session Number: 3
+
+Patient: Hi, I'm Samantha Chen. This is my 3 CBT session. Last time we talked about: Session Summary:
+
+Session Summary:
+
+1. Main topics discussed:
+- Sleep hygiene and eating habits
+- Communication strategies with parents
+- Cognitive reappraisal techniques
+- Business problem-solving approach for GreenThread
+
+2. Techniques/exercises introduced:
+- Cognitive reappraisal (reframing negative thoughts into more balanced ones)
+- Structured problem-solving method (5-step approach)
+- Communication strategy combining gratitude with assertiveness
+
+3. Helpful/important elements:
+- Concrete examples of cognitive reappraisal
+- Detailed breakdown of business problem-solving
+- Balanced approach to parent communication
+
+4. Homework assigned:
+- Practice cognitive reappraisal with worrying thoughts
+- Implement sleep hygiene practices
+- Monitor eating habits
+- Apply problem-solving approach to business issues
+- Plan conversation with parents using new communication strategy
+
+5. Insights/realizations:
+- Recognition that small shifts in thinking can make a difference
+- Understanding the value of breaking down problems into manageable parts
+- Appreciation for balanced communication approach with parents
+
+Therapist: Hello Samantha, it's great to see you again for your third CBT session. Last time we discussed several important topics, such as sleep hygiene, eating habits, communication strategies with parents, cognitive reappraisal techniques, and a business problem-solving approach for GreenThread.
+
+It's wonderful to hear that you found the concrete examples of cognitive reappraisal, the detailed breakdown of the business problem-solving method, and the balanced approach to parent communication helpful and important.
+
+As we discussed, I'd like to encourage you to continue practicing cognitive reappraisal with any worrying thoughts that come up, and to implement the sleep hygiene practices we discussed. I'd also like you to monitor your eating habits and apply the problem-solving approach to business issues as homework.
+
+In addition, I'd like you to plan a conversation with your parents using the new communication strategy we discussed. Remember, it's a combination of gratitude and assertiveness, so you can express your feelings while also being respectful.
+
+I'm glad to hear that you've realized the value of small shifts in thinking and the importance of breaking problems down into manageable parts. These insights are crucial for our work together and I look forward to seeing your progress.
+
+If you have any questions or concerns, please don't hesitate to let me know. Have a great week, and I'll see you next time.
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\bsee you next time\b'
+
+
+Session Summary:
+
+I apologize, but I don't see the conversation history provided for session #3. Without the actual session content, I cannot provide a meaningful summary of what was discussed, techniques used, or insights gained. 
+
+To provide an accurate and helpful session summary, I would need:
+- The dialogue between the therapist and client
+- Any exercises or interventions that were used
+- Discussion topics and themes
+- Assigned homework or action items
+
+Please provide the session details you'd like me to summarize.

@@ -1,0 +1,118 @@
+Session Number: 14
+
+Patient: Hi, I'm Marcus Thompson. This is my 14 CBT session. Last time we talked about: Session Summary:
+
+Session Summary:
+
+1. Main topics discussed:
+- Progress with homework assignments (deep breathing and positive data logging)
+- Time management challenges
+- Setting boundaries between work and family responsibilities
+- Self-care strategies
+- Implementation of CBT thought records
+
+2. Techniques/exercises introduced or practiced:
+- Setting specific times for deep breathing (e.g., during morning runs)
+- Simplified approach to CBT thought records (starting with emotion identification)
+- Intentional break-taking strategies
+- Boundary-setting techniques for work-family balance
+
+3. Things that appeared helpful/important:
+- Recognition that perfectionism isn't necessary
+- Understanding that small changes can make significant differences
+- Acknowledging the importance of self-care
+- The value of being present in the moment rather than multi-tasking
+
+4. Homework assigned:
+- Continue deep breathing exercises
+- Maintain positive data logging
+- Practice CBT thought records
+- Implement boundary-setting strategies
+- Take intentional breaks with reminders
+- Practice self-care during breaks
+
+5. Insights/realizations:
+- Marcus recognized the connection between self-care and being effective in his roles as father, teacher, and son
+- Understanding that setting boundaries isn't selfish but necessary
+- Awareness that trying to multitask is actually depleting mental resources
+- Recognition that even small positive actions are worth noting in the data log
+
+The session ended on a positive note, with Marcus expressing increased hope and commitment to implementing the discussed changes.
+
+Therapist: Hello Marcus, it's good to see you today. We have a few things to cover in our session. First, I'd like to check in on how you've been doing since our last meeting. How have you been feeling, and have there been any significant changes or experiences you'd like to share?
+
+Patient: Hey, Nova. Thanks for asking. Honestly, it's been a bit of a rollercoaster. I had a particularly rough day last week—ended up snapping at one of my students. It was a reminder that I'm still carrying a lot of stress. On the brighter side, I've been trying to carve out more time for myself, even if it's just a short walk during lunch. How about we start with what happened with that student? Trying to unpack that might help.
+
+Therapist: Absolutely, let's explore that situation with your student. Can you tell me more about what happened and what thoughts and emotions came up for you in that moment?
+
+Patient: Sure. It was during my afternoon class, and we were discussing the Civil Rights Movement. One of my students, Jamal—not my son, another student with the same name—was doodling instead of paying attention. I asked him to focus, but he just shrugged it off. That's when I lost it. I raised my voice, which I never do, and told him to take the lesson seriously. The whole class went quiet, and I could see the hurt in Jamal's eyes. Afterward, I felt a mix of guilt, frustration, and embarrassment. Guilt for losing my cool, frustration because I felt like I was failing as a teacher, and embarrassment because I didn't want my students to see me that way.
+
+Therapist: Thank you for sharing that, Marcus. It takes courage to reflect on moments like this. Let's try to understand what might have contributed to your emotional response. When you were in that moment with Jamal, what thoughts were running through your head?
+
+Patient: Honestly, it was a jumble. I remember thinking, "Why can't he just pay attention? Don't they understand how important this is?" And then, "I'm failing them. I'm not making a difference." It was like all the stress and pressure I've been feeling just boiled over. I felt like I was letting everyone down—my students, my kids, my mom.
+
+Therapist: That's a lot of weight to carry, Marcus. It sounds like you were experiencing a mix of thoughts related to your expectations of yourself and your desire to make a positive impact. Let's look at how these thoughts might be connected to some of the beliefs we've been exploring in our sessions. Remember the belief we identified early on: "If I don't do everything perfectly, I'm letting people down"? It seems like that belief might have been fueling your emotional response in that moment.
+
+Patient: Yeah, that belief definitely feels familiar. I guess I was thinking that if I can't even keep one student engaged, then I'm not doing my job right. It's like I'm constantly trying to prove myself, not just to others but to myself too. And when things don't go perfectly, it feels like a personal failure.
+
+Therapist: That's a great insight, Marcus. Recognizing these patterns is an important step in learning to challenge and reframe them. Let's try to find a more balanced perspective on this situation with Jamal. What might be another way to view what happened, one that takes into account both your high standards for yourself and the context of the situation?
+
+Patient: Hmm, maybe I could see it as a reminder that I'm human. It's okay to have off days, and it doesn't mean I'm a failure. Maybe it's also an opportunity to connect with Jamal on a different level, to understand why he wasn't engaged and find a way to help him. It doesn't have to be all or nothing—I can still be a good teacher even if I don't get it right every time.
+
+Therapist: That's a much more compassionate and balanced viewpoint, Marcus. Recognizing that perfection isn't the only measure of success is an important step in this journey. How do you think this alternative perspective could have helped you in the moment with Jamal?
+
+Patient: I think it would have helped me stay calmer and more patient. Instead of getting caught up in the idea that I'm failing, I could have taken a breath and tried to understand what was going on with Jamal. Maybe I could have had a one-on-one conversation with him later, find out if something else was bothering him. It would have felt less like a personal failure and more like an opportunity to connect and help.
+
+Therapist: That's a very mature and compassionate approach, Marcus. How do you think practicing this new way of thinking could impact not only your interactions with your students but also the stress and guilt you've been feeling?
+
+Patient: I think it could make a big difference. If I can remind myself that it's okay to not be perfect, it might help me manage my stress better. I wouldn't feel so overwhelmed by the pressure to do everything perfectly. And maybe, just maybe, it could help me be a better teacher and a better person overall.
+
+Therapist: Absolutely, Marcus. Shifting our perspective can have a powerful impact on our emotional well-being and the quality of our relationships. It's not about letting go of high standards, but rather finding a healthy balance and giving ourselves grace when things don't go as planned. How can you practice this new perspective over the coming week, maybe in your interactions with Jamal or even with your family?
+
+Patient: I can start by catching myself when I feel that old pressure building up. Instead of letting it spiral, I can take a moment to remind myself that it's okay to not be perfect. Maybe I can even talk to Jamal about what happened, see if he's open to discussing it. And with my family, I can try to be more present, not just physically but mentally too, without the constant worry that I'm not doing enough.
+
+Therapist: Those sound like great strategies, Marcus. Remember, it's all about practice and being patient with yourself. Change doesn't happen overnight, but every small step counts. Speaking of practice, how did your homework go last week—the thought records and boundary-setting?
+
+Patient: The thought records were helpful. I could see how my thoughts were making things worse. But setting boundaries, that's still tough. I tried to say no to a few extra commitments at school, but it felt like I was letting people down. I guess I need more practice with that.
+
+Therapist: It's great that you tried, Marcus. Setting boundaries is challenging, especially when we're used to putting others' needs before our own. Remember, it's not selfish to take care of yourself—it's necessary. We can keep practicing and finding ways to make it feel more comfortable for you. What about the self-care activities we discussed? How did those go?
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\btake care\b'
+
+
+Session Summary:
+
+Session Summary:
+
+1. Main topics discussed:
+- Recent incident of losing temper with a student named Jamal during class
+- Exploration of perfectionist beliefs and self-expectations
+- Connection between stress, emotional reactions, and core beliefs
+- Processing feelings of guilt, frustration, and embarrassment
+
+2. Techniques/exercises introduced:
+- Perspective reframing
+- Identifying thought patterns
+- Balanced thinking exercise
+- Continued use of thought records
+
+3. Helpful/important elements:
+- Recognition of the connection between perfectionist beliefs and emotional reactions
+- Development of more compassionate self-talk
+- Understanding that being imperfect doesn't equal failure
+- Identification of more balanced ways to handle challenging situations
+
+4. Homework/tasks:
+- Practice catching and reframing perfectionist thoughts
+- Consider having a follow-up conversation with Jamal
+- Continue working on boundary-setting
+- Maintain thought records
+
+5. Insights/realizations:
+- Recognition that perfectionism is driving many emotional responses
+- Understanding that being human and making mistakes doesn't diminish overall effectiveness as a teacher
+- Awareness that a more balanced perspective could lead to better stress management
+- Acknowledgment that boundary-setting remains challenging due to fear of letting others down

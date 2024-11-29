@@ -1,0 +1,119 @@
+Session Number: 14
+
+Patient: Hi, I'm Alicia Rodriguez. This is my 14 CBT session. Last time we talked about: Session Summary:
+
+Session Summary:
+
+Main Topics Discussed:
+- Work-related stress and burnout
+- Grief over grandmother's passing
+- Implementation of coping strategies and organizational tools
+- Finding accountability partners and support groups
+
+Techniques/Exercises Introduced:
+- Mindfulness practices (5-10 minute breathing exercises)
+- Progress journaling structure
+- Task prioritization using to-do list apps (Trello recommended)
+- Setting boundaries at work
+
+Things That Appeared Helpful:
+- Breaking down changes into manageable steps
+- Creating structured routines for mindfulness and task management
+- The idea of celebrating small victories
+- Finding support through accountability partners
+
+Homework/Tasks Assigned:
+- Start using Trello for task management
+- Begin morning mindfulness practice
+- Set up progress journal
+- Approach potential accountability partner (Sarah)
+- Look into support groups/communities
+
+Insights/Realizations:
+- Recognition of the need for work-life balance
+- Understanding the importance of gradual implementation of changes
+- Acknowledging the value of support systems in maintaining new habits
+- Connection between structured approaches and reduced stress levels
+
+Therapist: : Hello Alicia, it's great to see you again. Thank you for sharing that summary. Let's dive right into where you are today. How have you been managing your work-related stress and burnout since our last session? Have you found the Trello to be helpful with your tasks? Also, how have you been doing with your mindfulness practice in the mornings?
+
+Patient: Hi Nova, thanks for asking. I've been trying to stick to the Trello for task management, and it's been helpful to see everything laid out clearly. It's easier to prioritize and not feel overwhelmed by the sheer number of things I need to do. As for the mindfulness practice, I've been doing the 5-10 minute breathing exercises in the mornings, but sometimes I forget or get caught up in work before I can do it. It's a bit of a struggle to make it a consistent habit, but I do feel a bit calmer when I manage to do it.
+
+Therapist: : Hello Alicia, thank you for your honest update. It's great to hear that Trello has been helpful in managing your tasks and giving you a clearer sense of what needs to be done. Regarding your mindfulness practice, it's important to recognize that forming a new habit can be challenging, and it's okay to have some ups and downs.
+
+Let's work on some strategies to help you maintain your mindfulness practice consistently. One approach could be to set a daily reminder on your phone or computer to prompt you to do your breathing exercises. Additionally, you might find it helpful to pair your mindfulness practice with another routine you do every day, like making your bed or brushing your teeth, to create a stronger association.
+
+How does that sound? Also, let's discuss any other support systems or changes you might be considering to help manage your stress and grief more effectively.
+
+Patient: That sounds like a good idea, setting reminders could help me remember to do the mindfulness exercises. I'll try pairing it with making my bed, since I do that every morning anyway. 
+
+As for other support systems, I've been thinking about reaching out to Sarah, the coworker I mentioned last time, to see if she'd be willing to be an accountability partner. I haven't approached her yet, but I think it could be helpful to have someone to check in with regularly about my progress and challenges.
+
+Therapist: : That sounds like a great plan, Alicia. Setting reminders and pairing your mindfulness practice with a daily routine can definitely help make it more habitual. And reaching out to Sarah is a wonderful idea. Having a supportive accountability partner can provide you with the encouragement and support you need to stay on track with your goals.
+
+Let's go over a few steps to help you approach Sarah effectively:
+
+1. **Choose an Appropriate Time**: Schedule a time when both of you are likely to be free and not in a rush. This could be during a lunch break or a moment when you're both relaxed and less stressed.
+
+2. **Express Your Intents Clearly**: When you talk to Sarah, be clear about what you're hoping to achieve. You could say something like, "Hi Sarah, I've been working on improving my mindfulness practice and task management. I was wondering if you might be interested in checking in with me every week or so to see how I'm doing and if there are any areas where we can support each other. It would mean a lot to me."
+
+3. **Be Prepared to Listen**: It's also important to listen to Sarah and understand her perspective. She might have some suggestions or insights that could be beneficial for both of you.
+
+4. **Follow Up**: After your conversation, send Sarah a text or email reiterating your interest and the times you're available for check-ins. This can help solidify your commitment and make the process smoother.
+
+Let's practice what you might say to Sarah in the next session. This will help you feel more confident and prepared when you have the conversation.
+
+How does that sound to you?
+
+Patient: That sounds like a good approach. I'll try to find a good time to talk to Sarah when we're both relaxed. I like the idea of practicing what I'll say beforehand, it should help me feel more confident. I'll also make sure to listen to her perspective and follow up afterward. Thanks for the tips, Nova.
+
+Therapist: : You're welcome, Alicia. I'm glad you found the tips helpful. Practicing what you'll say can indeed boost your confidence and ensure that your conversation with Sarah goes smoothly. Here’s a brief script you could use as a guide:
+
+---
+
+**Script:**
+
+"Hi Sarah, I’ve been working on improving my mindfulness practice and task management. I was wondering if you might be interested in checking in with me every week or so to see how I’m doing and if there are any areas where we can support each other. It would mean a lot to me."
+
+---
+
+Feel free to adjust this script as needed to fit your personal style. Also, remember to be open and respectful if Sarah isn't immediately available or interested. It's okay to try reaching out to other colleagues or friends if Sarah isn't able to help, as there are many people who can provide support.
+
+If you have any more questions or need further support in preparing for this conversation, don't hesitate to reach out. And keep up the great work with your mindfulness and task management practices. We'll discuss your progress in our next session.
+
+Take care, Alicia. Talk to you soon.
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\btake care\b'
+
+
+Session Summary:
+
+Summary of Session 14:
+
+Main Topics Discussed:
+- Progress with Trello task management system
+- Challenges with maintaining consistent mindfulness practice
+- Strategy for approaching a potential accountability partner (Sarah)
+
+Techniques/Exercises Introduced:
+- Pairing mindfulness practice with existing morning routine (making bed)
+- Setting daily reminders for mindfulness exercises
+- Structured approach for having accountability partner conversation
+
+Things That Appeared Helpful:
+- Trello system is helping with task organization and prioritization
+- Client is open to implementing new strategies for consistency
+- Breaking down the approach to Sarah into clear, manageable steps
+
+Homework/Tasks Assigned:
+- Set up daily reminders for mindfulness practice
+- Begin pairing mindfulness with making bed routine
+- Prepare for and initiate conversation with Sarah about accountability partnership
+
+Insights/Realizations:
+- Client recognizes the value of having an accountability partner
+- Understanding that habit formation takes time and structure
+- Importance of clear communication when setting up support systems

@@ -1,0 +1,55 @@
+Session Number: 7
+
+Patient: Hi, I'm Alicia Rodriguez. This is my 7 CBT session. Last time we talked about: Session Summary:
+
+I hear how much pressure you're feeling in your role as team lead, and it's clear that you take your responsibilities very seriously. It's admirable that you want to do well, but it's also important to recognize that taking care of yourself actually makes you a better leader in the long run.
+
+I'm so sorry about your grandmother. It's completely understandable that you're still grieving, and six months isn't a very long time when it comes to processing the loss of someone we love. Can you tell me more about what you mean when you say you're "not really dealing with it"? What comes up for you when you think about your grandmother?
+
+Let's take some time to talk about this, if you'd like. Grief is a complex process, and sometimes we push it aside because we're trying to stay strong or because we're overwhelmed with other responsibilities. But it's important to give ourselves permission to feel and process these emotions.
+
+Therapist: Hello Alicia, nice to see you again for our 7th session. Let's continue our discussion about managing pressure at work and dealing with grief.
+
+First, let's talk about the pressure you're feeling as a team lead. Remember, it's okay to ask for help when things get tough. Delegating tasks to your team can help lighten the load and empower your team members. By doing so, you're demonstrating trust and promoting a healthy work environment.
+
+Secondly, regarding your grief over your grandmother, I'm here to support you. It's normal to feel a range of emotions, and there's no right or wrong way to grieve. If you're "not really dealing with it," it could be helpful to explore those feelings more deeply.
+
+We can work on identifying thoughts and feelings that come up when you think about your grandmother. Sometimes, writing down these thoughts can help make them more manageable. We can also discuss coping strategies, such as expressing your feelings through art, music, or journaling, or seeking support from friends, family, or a grief support group.
+
+If you're open to it, we can spend today's session focusing on these topics. How does that sound to you?
+
+Patient: Hi, Nova. It's good to see you too.
+
+About delegating tasks, I've tried that a bit, but it's hard for me to let go. I feel like if I don't do it myself, it won't be done right. I know that's not fair to my team, but it's hard to shake that feeling.
+
+As for my grandmother, I think about her a lot, especially when I'm alone at night. I feel guilty for not being able to visit her more often when she was alive. I keep thinking, "What if I had done more?" It's hard to move past those thoughts.
+
+Writing things down does sound like a good idea. I've never really done that before, but maybe it could help. How exactly would I start?
+
+Therapist: That's a great start, Alicia! Here's a simple way to start writing down your thoughts:
+
+1. Find a quiet, comfortable space where you can write without interruptions.
+2. Set a timer for 10-15 minutes to help you focus.
+3. Write down your thoughts about your grandmother, such as memories, feelings, and any regrets or worries you have. It's okay if the thoughts are scattered or don't make complete sentences. The goal is to get them out of your head and onto paper.
+4. After writing, take a break for a few minutes. This gives you time to process what you've written and see if there are any patterns or common themes.
+5. After your break, review what you've written, and try to identify any thoughts that are particularly bothersome or overwhelming. These are the ones we can focus on in our sessions.
+
+Remember, there's no right or wrong way to do this, and the point is to help you process your emotions and thoughts in a healthy way. As for delegating tasks, it's understandable that it's hard to let go, but remember that it's a sign of trust in your team, and ultimately it can help reduce your stress levels and make you a more effective leader.
+
+Let's continue to explore these topics in our next session, and I'm here to support you as we move forward. If you have any questions or concerns before then, feel free to reach out. Take care!
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\btake care\b'
+
+
+Session Summary:
+
+I understand your hesitation about delegating. That need for control often comes from a place of wanting to ensure quality, but it can become overwhelming. Could you tell me more about what specifically worries you when you think about letting others handle tasks? Maybe we can work on building trust gradually.
+
+What you're sharing about your grandmother - those feelings of guilt and regret - are very common in grief. But they can be really painful to carry. When you think "What if I had done more?" what specific memories or moments come to mind? 
+
+As for writing, we can start simple. Try keeping a small notebook by your bed, and when those nighttime thoughts about your grandmother come, just write them down. Don't worry about structure or grammar - just let your thoughts flow. You might write about memories, feelings, or even letters to her. Would you be willing to try that this week?
+
+Remember, both learning to delegate and processing grief take time. We can work on these challenges step by step.

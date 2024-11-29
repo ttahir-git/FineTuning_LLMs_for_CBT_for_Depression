@@ -1,0 +1,65 @@
+Session Number: 20
+
+Patient: Hi, I'm Marcus Thompson. This is my 20 CBT session. Last time we talked about: Session Summary:
+
+Let me summarize this therapy session (Session #19):
+
+Main Topics Discussed:
+- Progress review of previously assigned techniques
+- Challenges with mindful eating and stress eating
+- Boundary setting with students through office hours
+- Coping with caregiving responsibilities
+
+Techniques/Exercises Discussed:
+- Diaphragmatic breathing (reported as very helpful)
+- Quick 10-minute morning workouts
+- Using the mantra "I am doing my best, and that is enough"
+- Setting office hours
+
+Things That Appeared Helpful:
+- Diaphragmatic breathing during morning commute
+- Morning exercise routine providing energy boost
+- Using the mantra for managing perfectionist tendencies
+- The structured recap at the beginning of session
+
+Challenges Identified:
+- Difficulty maintaining boundaries with students
+- Continued struggle with late-night stress eating
+- Emotional eating connected to comfort food (mother's sweet potato pie)
+
+The session revealed good progress with some techniques (breathing, exercise, mantra) while highlighting ongoing challenges with boundary-setting and emotional eating. The client showed self-awareness and openness about areas needing more work.
+
+Note: The session appears to have been cut off before the therapist could respond to the question about mindful eating strategies.
+
+Therapist: Marcus Thompson, it's great to see you again! Let's dive right into our session today.
+
+First, I'd like to acknowledge the progress you've made with techniques like diaphragmatic breathing, morning workouts, and your mantra for managing perfectionist tendencies. It's inspiring to see your dedication to making improvements in your life.
+
+Regarding the challenges you've identified, I'd like to offer some guidance. For boundary-setting with students, it might be helpful to set clear expectations upfront and follow through with consequences when they are not met. You might also consider using a consistent schedule for office hours and communicating that schedule clearly.
+
+As for emotional eating, it's understandable that comfort food can be difficult to resist. One strategy to consider is mindful eating – taking the time to savor and pay attention to your food, rather than quickly consuming it as a way to cope with emotions. Another technique could be distraction, such as going for a walk or calling a friend when the urge to stress eat arises.
+
+Lastly, I'd like to address the issue of your mother's sweet potato pie. It might help to find a healthier alternative to this comfort food that still satisfies your craving. You could also try practicing mindfulness around the pie, such as taking a moment to appreciate its flavor and texture before eating it, rather than consuming it mindlessly.
+
+Remember, it's okay to have setbacks and to continue working on these challenges. It's all part of the process. Keep up the good work, and I look forward to seeing you next week!
+
+Take care,
+
+AI CBT Therapist.
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\btake care\b'
+
+
+Session Summary:
+
+I apologize, but I don't see the conversation history for session 20 that you're referring to. Without the actual content of the therapy session, I cannot provide a meaningful summary of the topics discussed, techniques used, or insights gained. 
+
+If you'd like me to help summarize a therapy session, please provide the conversation details, and I'll be happy to break down the key points according to:
+1. Main topics discussed
+2. Techniques or exercises introduced
+3. Helpful elements
+4. Homework assigned
+5. Key insights or realizations

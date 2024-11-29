@@ -1,0 +1,18 @@
+Session Number: 3
+
+Patient: Hi, I'm Marcus Thompson. This is my 3 CBT session. Last time we talked about: Session Summary:
+
+I notice that no conversation history was provided for me to analyze. Without the actual therapy session content, I cannot provide a meaningful summary of what was discussed or what occurred during the session.
+
+To provide an accurate session summary, I would need:
+- The dialogue between the therapist and client
+- Any exercises or activities that were done
+- Discussion topics and key moments from the session
+- Any homework assignments given
+
+Please provide the session content you would like me to summarize and I'll be happy to help analyze the key aspects of the therapy session.
+
+
+Termination Details:
+Reason: Critical Error
+Details: RetryError[<Future at 0x71d97164b9d0 state=finished raised ValueError>]

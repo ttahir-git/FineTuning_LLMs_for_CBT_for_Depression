@@ -1,0 +1,94 @@
+Session Number: 19
+
+Patient: Hi, I'm Alicia Rodriguez. This is my 19 CBT session. Last time we talked about: Session Summary:
+
+Let me summarize the key points from today's session:
+
+Main topics discussed:
+- Managing work-related stress and exhaustion
+- Challenging beliefs about setting boundaries and self-worth at work
+- Exploring strategies for effective boundary setting
+- Addressing guilt around self-care activities
+
+Techniques/exercises introduced:
+- Cognitive restructuring for unhelpful thoughts
+- Evidence-gathering technique
+- Boundary-setting communication strategies
+- Using thought records for tracking and reframing thoughts
+
+Things that appeared helpful:
+- Identifying specific examples of successful delegation
+- Practicing clear communication for boundary setting
+- Recognizing the benefits of self-care activities
+- Reframing thoughts about productivity and self-worth
+
+Homework assigned:
+1. Implement 1-2 boundary-setting strategies at work
+2. Schedule and attend a salsa class on Thursday evening
+3. Use a thought record to track and reframe unhelpful thoughts
+4. Notice the impact of self-care activities on mood and energy
+
+Insights/realizations:
+- Evidence shows that setting boundaries hasn't negatively impacted team dynamics
+- Self-care activities like salsa dancing have historically improved mood and energy
+- Current work patterns are unsustainable and affecting work quality
+- The importance of viewing self-care as an investment rather than a waste of time
+
+Therapist: Alicia, thank you for your hard work today. I'm proud of the insights and strategies you've developed. Before we end, let's discuss your homework in more detail. 
+
+For setting boundaries at work, I encourage you to start small. Perhaps you could try saying no to an unnecessary meeting or delegating a task to a colleague. Remember to use clear communication and be specific about your needs.
+
+For the salsa class, I'm excited for you to reconnect with an activity that brings you joy. Notice how you feel during and after the class, and reflect on how it impacts your mood and energy.
+
+Finally, use a thought record to track and reframe any unhelpful thoughts that arise around productivity or self-worth. This will help you continue to challenge those negative beliefs.
+
+How do you feel about this homework plan?
+
+Patient: I appreciate the encouragement, Nova. Starting small with boundaries at work makes sense. I'll try saying no to a meeting that isn't crucial or delegating a task. I've been hesitant to do that, but I see how it could help.
+
+As for the salsa class, I'm both excited and a bit nervous. It's been a while since I've danced, and I hope it brings back the joy I used to feel. I'll definitely pay attention to how I feel during and after the class.
+
+Using a thought record to track and reframe unhelpful thoughts is something I need to get better at. I tend to dismiss them quickly, but I know they affect me more than I realize. I'll give it a try and see how it goes.
+
+Overall, I feel positive about this homework plan. It's manageable and practical, which is what I need right now.
+
+Therapist: That's great to hear, Alicia. Remember, the goal is progress, not perfection. Be kind to yourself as you work on implementing these strategies. I'm here to support you every step of the way.
+
+In our next session, we'll discuss how it went with the homework, and we can explore any challenges or insights that came up. We'll also continue to work on reframing negative thoughts and developing more balanced perspectives.
+
+Until then, take care of yourself. You're doing a great job.
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\btake care\b'
+
+
+Session Summary:
+
+Session Summary:
+
+1. Main topics discussed:
+- Setting boundaries at work
+- Returning to salsa dancing as a form of self-care
+- Managing unhelpful thoughts about productivity and self-worth
+
+2. Techniques/exercises introduced:
+- Starting small with boundary-setting
+- Using thought records to track and reframe negative thoughts
+- Mindful awareness of emotional states during activities
+
+3. Helpful/important elements:
+- Recognition that starting small with boundaries is more manageable
+- Acknowledgment of both excitement and nervousness about returning to dance
+- Understanding the importance of tracking thoughts rather than dismissing them
+
+4. Homework assigned:
+- Practice setting boundaries at work (saying no to unnecessary meetings or delegating tasks)
+- Attend salsa class and monitor emotional response
+- Use thought records to track and reframe unhelpful thoughts
+
+5. Insights/realizations:
+- Recognition that small steps in boundary-setting can be effective
+- Awareness that quickly dismissing negative thoughts doesn't prevent their impact
+- Understanding the value of practical, manageable goals

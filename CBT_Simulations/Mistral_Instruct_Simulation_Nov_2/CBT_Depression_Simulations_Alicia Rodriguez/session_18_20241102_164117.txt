@@ -1,0 +1,142 @@
+Session Number: 18
+
+Patient: Hi, I'm Alicia Rodriguez. This is my 18 CBT session. Last time we talked about: Session Summary:
+
+Let me summarize the key points from Session 17:
+
+Main topics discussed:
+- Work-life balance
+- Grief processing
+- Implementation of mindfulness strategies
+- Setting boundaries at work
+- Self-care activities
+
+Techniques/exercises introduced:
+- Setting specific times for mindfulness practice
+- Using guided meditation apps
+- Establishing clear work hours
+- Structured approach to work-life boundaries
+
+Things that appeared helpful/important:
+- Recognition that grief is a process and needs time
+- Understanding that setting boundaries can improve work performance
+- Acknowledgment that feeling guilty about enjoyable activities is normal but shouldn't prevent self-care
+
+Homework assigned:
+- Have a conversation with boss about work boundaries
+- Find a quiet place at work for mindfulness practice
+- Explore new self-care activities
+- Implement structured work hours
+
+Insights/realizations:
+- Client recognized the need to address work-life balance
+- Acknowledged the connection between self-care and overall effectiveness
+- Showed willingness to take concrete steps toward setting boundaries at work
+- Demonstrated awareness of grief's impact on engaging in previously enjoyed activities (salsa dancing)
+
+Therapist: Hello Alicia Rodriguez, it's great to see you again for your 18th CBT session! Here's a summary of our last session:
+
+Session Summary:
+- We discussed work-life balance
+- Explored grief processing
+- Introduced mindfulness strategies
+- Set boundaries at work
+- Discussed self-care activities
+
+Techniques/exercises introduced:
+- Setting specific times for mindfulness practice
+- Using guided meditation apps
+- Establishing clear work hours
+- Structured approach to work-life boundaries
+
+Things that appeared helpful/important:
+- Recognizing that grief is a process
+- Understanding the importance of setting boundaries at work
+- Acknowledging that guilt over enjoyable activities is normal but shouldn't hinder self-care
+
+Homework assigned:
+- Discuss work boundaries with your boss
+- Find a quiet place at work for mindfulness practice
+- Explore new self-care activities
+- Implement structured work hours
+
+Insights/realizations:
+- Recognized the need to address work-life balance
+- Acknowledged the connection between self-care and overall effectiveness
+- Showed willingness to take concrete steps towards setting boundaries at work
+- Demonstrated awareness of grief's impact on salsa dancing
+
+This week, let's reflect on the progress you've made, discuss any challenges you may have encountered, and plan for the upcoming week. I look forward to hearing about your conversation with your boss and the new self-care activities you've discovered.
+
+Patient: Hi, Nova. It's good to be back. Last week was... interesting. I did talk to my boss about setting clearer work boundaries, and surprisingly, he was really supportive. He even suggested some ways to delegate tasks better so I don't feel like I have to do everything myself.
+
+As for self-care, I tried a few new things. I downloaded a guided meditation app, but I have to admit, I found it a bit hard to focus. The voice was soothing, but my mind kept wandering back to work. I also started going for short walks during lunch breaks, which has been nice. It's a small change, but it helps break up the day.
+
+The structured work hours are still a work in progress. Some days I stick to them, but others, especially when there's a tight deadline, I end up staying late again. I guess I'm still struggling with the guilt of not being "productive" enough.
+
+Oh, and I haven't been able to find a quiet place at work for mindfulness practice yet. The office is pretty open, and it's hard to find a spot where I won't be interrupted. Any suggestions?
+
+Therapist: That sounds like a productive week, Alicia! I'm glad your boss was supportive about setting work boundaries. It's important to have that understanding and cooperation from your supervisor. Regarding the guided meditation app, it can be challenging at first to focus. The key is to be patient with yourself and to practice consistently. It might help to find a quieter place at home to practice if you're having trouble focusing at work.
+
+As for the structured work hours, it's great that you're recognizing the progress you're making. It's understandable that you still struggle with the guilt of not meeting expectations. Remember, setting boundaries for yourself is an essential part of maintaining a healthy work-life balance. Try to reframe your mindset from "not productive enough" to "efficiently managing my time."
+
+Regarding a quiet place for mindfulness practice at work, you might want to speak with your boss or human resources department about setting up a quiet room or designated space for employees to take breaks and practice mindfulness. Another option could be to use headphones with a white noise app or nature sounds to help create a more peaceful environment.
+
+Lastly, let's discuss some strategies to help you overcome the guilt when you take a break or engage in self-care activities. One technique is to set aside specific time each day for self-care, just as you do for work tasks. By scheduling self-care, you're treating it as an essential part of your day rather than an optional activity. Additionally, try to focus on the benefits that self-care provides, such as stress relief, increased productivity, and overall well-being.
+
+Homework for the next week:
+- Continue implementing structured work hours
+- Continue exploring new self-care activities and finding a quiet space for mindfulness practice at work or home
+- Practice mindfulness using guided meditation apps or nature sounds with headphones
+- Set aside specific time each day for self-care, and focus on the benefits it provides
+
+Let's talk more about this during our next session, and feel free to reach out if you have any questions or concerns before then. I'm here to support you!
+
+Patient: Thanks, Nova. I appreciate the suggestions. I'll try to find a quieter place at home for the meditation app. The idea of speaking with HR about setting up a quiet room at work is a good one, too. I hadn't thought of that.
+
+As for the guilt, I think scheduling self-care time is a good idea. It might help me see it as something necessary rather than optional. I'll give that a try this week.
+
+I'll also keep working on those structured work hours. It's tough, but I know it's important. I'll let you know how it goes next time.
+
+Therapist: That sounds like a solid plan, Alicia. I'm glad you're open to exploring new options and strategies. It's important to prioritize your well-being and recognize the importance of self-care. I look forward to hearing about your progress next week. Don't hesitate to reach out if you have any questions or concerns before our next session. Take care!
+
+
+Termination Details:
+Reason: Natural Session End
+Details: Detected end phrase: '\btake care\b'
+
+
+Session Summary:
+
+Let me summarize this therapy session:
+
+Main topics discussed:
+- Progress with work boundaries and conversation with boss
+- Challenges with meditation and finding quiet spaces
+- Implementation of structured work hours
+- Ongoing struggles with guilt around productivity
+- Self-care activities and time management
+
+Techniques/exercises introduced:
+- Using headphones with white noise/nature sounds for meditation
+- Scheduling specific self-care time as part of daily routine
+- Reframing mindset from "not productive enough" to "efficiently managing time"
+
+Things that appeared helpful/important:
+- Boss's supportive response to boundary-setting discussion
+- Success with implementing short walks during lunch breaks
+- Recognition that consistent practice is needed for meditation
+- Understanding that self-care should be treated as essential, not optional
+
+Homework assigned:
+- Continue implementing structured work hours
+- Practice mindfulness in a quieter home environment
+- Explore setting up a quiet room at work through HR
+- Schedule specific daily self-care time
+- Continue exploring new self-care activities
+
+Insights/realizations:
+- Recognition that small changes can make a difference
+- Understanding that guilt around productivity needs to be addressed
+- Acceptance that developing new habits takes time and patience
+- Willingness to try different approaches to make self-care work

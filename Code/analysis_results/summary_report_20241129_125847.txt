@@ -1,0 +1,175 @@
+================================================================================
+COGNITIVE BEHAVIORAL THERAPY ANALYSIS SUMMARY REPORT
+================================================================================
+
+DATA OVERVIEW
+----------------------------------------
+Total number of sessions: 593
+Number of unique patients: 5
+Number of groups: 6
+
+Groups:
+  Llama_Instruct_Simulation_Nov_2: 100 sessions, 5 patients
+  Qwen_Finetune_Simulation_Nov_16: 100 sessions, 5 patients
+  Llama_Finetune_Simulation_Nov_6: 100 sessions, 5 patients
+  Mistral_Finetune_Simulation_Nov_6: 100 sessions, 5 patients
+  Qwen_Instruct_Simulation_Nov_15: 100 sessions, 5 patients
+  Mistral_Instruct_Simulation_Nov_2: 93 sessions, 5 patients
+
+Sessions per patient:
+  Minimum: 117
+  Maximum: 120
+  Average: 118.6
+  Median: 119.0
+
+BASIC STATISTICS
+----------------------------------------
+
+Group: Llama_Instruct_Simulation_Nov_2
+Number of sessions: 100
+Average total score: 59.83
+Standard deviation: 10.44
+Min score: 23.00
+Max score: 76.00
+
+Category Scores:
+  Agenda: 3.92 ± 1.53
+  Feedback: 5.33 ± 1.06
+  Understanding: 6.44 ± 1.07
+  Interpersonal Effectiveness: 6.70 ± 0.95
+  Collaboration: 5.19 ± 1.32
+  Pacing and Efficient Use of Time: 4.84 ± 1.38
+  Guided Discovery: 4.90 ± 1.57
+  Focusing on Key Cognitions or Behaviors: 6.56 ± 1.06
+  Strategy for Change: 5.05 ± 1.34
+  Application of Cognitive-Behavioral Techniques: 5.41 ± 1.23
+  Homework: 5.49 ± 2.07
+
+Group: Qwen_Finetune_Simulation_Nov_16
+Number of sessions: 100
+Average total score: 64.28
+Standard deviation: 9.55
+Min score: 16.00
+Max score: 77.00
+
+Category Scores:
+  Agenda: 5.37 ± 1.85
+  Feedback: 5.28 ± 1.22
+  Understanding: 6.60 ± 0.90
+  Interpersonal Effectiveness: 6.91 ± 0.38
+  Collaboration: 5.96 ± 1.20
+  Pacing and Efficient Use of Time: 5.02 ± 1.39
+  Guided Discovery: 5.52 ± 1.49
+  Focusing on Key Cognitions or Behaviors: 6.67 ± 0.97
+  Strategy for Change: 5.62 ± 1.25
+  Application of Cognitive-Behavioral Techniques: 5.68 ± 1.21
+  Homework: 5.65 ± 1.99
+
+Group: Llama_Finetune_Simulation_Nov_6
+Number of sessions: 100
+Average total score: 67.86
+Standard deviation: 7.24
+Min score: 47.00
+Max score: 77.00
+
+Category Scores:
+  Agenda: 5.79 ± 1.72
+  Feedback: 5.70 ± 1.02
+  Understanding: 6.83 ± 0.38
+  Interpersonal Effectiveness: 6.93 ± 0.29
+  Collaboration: 6.19 ± 1.09
+  Pacing and Efficient Use of Time: 5.46 ± 1.29
+  Guided Discovery: 5.94 ± 1.29
+  Focusing on Key Cognitions or Behaviors: 6.87 ± 0.49
+  Strategy for Change: 5.93 ± 1.07
+  Application of Cognitive-Behavioral Techniques: 6.00 ± 0.94
+  Homework: 6.22 ± 1.56
+
+Group: Mistral_Finetune_Simulation_Nov_6
+Number of sessions: 100
+Average total score: 64.17
+Standard deviation: 9.79
+Min score: 11.00
+Max score: 77.00
+
+Category Scores:
+  Agenda: 5.01 ± 1.93
+  Feedback: 5.51 ± 1.11
+  Understanding: 6.63 ± 0.90
+  Interpersonal Effectiveness: 6.81 ± 0.72
+  Collaboration: 5.75 ± 1.31
+  Pacing and Efficient Use of Time: 5.18 ± 1.40
+  Guided Discovery: 5.57 ± 1.49
+  Focusing on Key Cognitions or Behaviors: 6.63 ± 1.00
+  Strategy for Change: 5.57 ± 1.26
+  Application of Cognitive-Behavioral Techniques: 5.78 ± 1.21
+  Homework: 5.73 ± 1.90
+
+Group: Qwen_Instruct_Simulation_Nov_15
+Number of sessions: 100
+Average total score: 55.09
+Standard deviation: 9.91
+Min score: 15.00
+Max score: 75.00
+
+Category Scores:
+  Agenda: 3.94 ± 1.75
+  Feedback: 4.97 ± 1.30
+  Understanding: 6.07 ± 1.03
+  Interpersonal Effectiveness: 6.87 ± 0.37
+  Collaboration: 4.66 ± 1.53
+  Pacing and Efficient Use of Time: 5.36 ± 1.36
+  Guided Discovery: 3.32 ± 0.99
+  Focusing on Key Cognitions or Behaviors: 4.91 ± 1.45
+  Strategy for Change: 4.74 ± 1.22
+  Application of Cognitive-Behavioral Techniques: 4.61 ± 1.59
+  Homework: 5.64 ± 2.06
+
+Group: Mistral_Instruct_Simulation_Nov_2
+Number of sessions: 93
+Average total score: 47.20
+Standard deviation: 14.09
+Min score: 11.00
+Max score: 76.00
+
+Category Scores:
+  Agenda: 3.47 ± 1.70
+  Feedback: 3.40 ± 1.92
+  Understanding: 5.19 ± 1.78
+  Interpersonal Effectiveness: 6.28 ± 1.28
+  Collaboration: 3.68 ± 1.55
+  Pacing and Efficient Use of Time: 4.41 ± 1.62
+  Guided Discovery: 3.03 ± 1.05
+  Focusing on Key Cognitions or Behaviors: 5.13 ± 1.84
+  Strategy for Change: 4.17 ± 1.59
+  Application of Cognitive-Behavioral Techniques: 4.31 ± 1.81
+  Homework: 4.13 ± 2.41
+
+MIXED EFFECTS MODEL RESULTS
+----------------------------------------
+               Mixed Linear Model Regression Results
+====================================================================
+Model:                 MixedLM    Dependent Variable:    total_score
+No. Observations:      593        Method:                ML         
+No. Groups:            5          Scale:                 108.3379   
+Min. group size:       117        Log-Likelihood:        -2232.2854 
+Max. group size:       120        Converged:             Yes        
+Mean group size:       118.6                                        
+--------------------------------------------------------------------
+                        Coef.  Std.Err.    z    P>|z|  [0.025 0.975]
+--------------------------------------------------------------------
+Intercept               69.508    0.948  73.307 0.000  67.650 71.367
+C(model)[T.Mistral]     -8.054    1.050  -7.667 0.000 -10.113 -5.995
+C(model)[T.Qwen]        -4.160    1.041  -3.997 0.000  -6.200 -2.120
+C(variant)[T.instruct] -11.326    0.855 -13.246 0.000 -13.002 -9.650
+session_centered         0.179    0.428   0.419 0.675  -0.659  1.018
+patient_id Var           0.873    0.109                             
+====================================================================
+
+
+Fixed Effects Estimates and Confidence Intervals:
+  Intercept: Estimate = 69.5083, 95% CI [67.6499, 71.3667]
+  C(model)[T.Mistral]: Estimate = -8.0538, 95% CI [-10.1125, -5.9950]
+  C(model)[T.Qwen]: Estimate = -4.1600, 95% CI [-6.2000, -2.1200]
+  C(variant)[T.instruct]: Estimate = -11.3258, 95% CI [-13.0017, -9.6500]
+  session_centered: Estimate = 0.1791, 95% CI [-0.6593, 1.0176]
